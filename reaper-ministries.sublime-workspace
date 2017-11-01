@@ -1,0 +1,952 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Action",
+				"ActionAdmin"
+			],
+			[
+				"pub",
+				"publish"
+			],
+			[
+				"Publi",
+				"PublishedManager"
+			],
+			[
+				"Pu",
+				"PublishedManager"
+			],
+			[
+				"Post",
+				"PostAdmin"
+			],
+			[
+				"St",
+				"STATUS_CHOICES"
+			],
+			[
+				"contac",
+				"contact-form"
+			],
+			[
+				"re",
+				"responseText"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"comp",
+				"company"
+			],
+			[
+				"form",
+				"formMessages"
+			],
+			[
+				"aj",
+				"ajax"
+			],
+			[
+				"ser",
+				"Serialize"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"nest",
+				"nested-contact-form"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"con",
+				"contactus"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"sl",
+				"slider"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"slid",
+				"slide-element"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"str2",
+				"str2output"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"get",
+				"getCookie"
+			],
+			[
+				"res",
+				"responderID"
+			],
+			[
+				"Crea",
+				"createdAtVar"
+			],
+			[
+				"em",
+				"emailVar"
+			],
+			[
+				"dep",
+				"departmentVar"
+			],
+			[
+				"de",
+				"departmentVar"
+			],
+			[
+				"las",
+				"lastnameVar"
+			],
+			[
+				"fir",
+				"firstnameVar"
+			],
+			[
+				"i",
+				"itemsArray"
+			],
+			[
+				"di",
+				"distinctCategory"
+			],
+			[
+				"Se",
+				"Session"
+			],
+			[
+				"pl",
+				"playerNameVar"
+			],
+			[
+				"Sel",
+				"selectedPlayer"
+			],
+			[
+				"selected",
+				"selectedPlayer"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"select",
+				"selectedPlayer"
+			],
+			[
+				"ban",
+				"background-color"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"play",
+				"playerId"
+			],
+			[
+				"se",
+				"selectedPlayer"
+			],
+			[
+				"p",
+				"PlayersList"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"end",
+				"enddate"
+			],
+			[
+				"star",
+				"startdate"
+			],
+			[
+				"pr",
+				"processData"
+			],
+			[
+				"head",
+				"headline"
+			],
+			[
+				"spread",
+				"spreadsheetID"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"ex",
+				"extractGroups"
+			],
+			[
+				"vis",
+				"visData"
+			],
+			[
+				"vi",
+				"visData"
+			],
+			[
+				"date",
+				"dateFormat"
+			],
+			[
+				"dat",
+				"dateFormat"
+			],
+			[
+				"com",
+				"com"
+			],
+			[
+				"a",
+				"activity"
+			],
+			[
+				"obje",
+				"objectType"
+			],
+			[
+				"testform",
+				"testform"
+			],
+			[
+				"Login",
+				"loginForm"
+			],
+			[
+				"pre",
+				"previousItem"
+			],
+			[
+				"home",
+				"homePageURL"
+			],
+			[
+				"menu",
+				"menuSetup"
+			],
+			[
+				"it",
+				"iterator"
+			],
+			[
+				"dept",
+				"depth1"
+			],
+			[
+				"docs",
+				"docsDir"
+			],
+			[
+				"direc",
+				"directories"
+			],
+			[
+				"direct",
+				"directory"
+			],
+			[
+				"dire",
+				"directories"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"UR",
+				"URLfileName"
+			],
+			[
+				"URL",
+				"URLfileName"
+			],
+			[
+				"hom",
+				"homePageURL"
+			],
+			[
+				"news",
+				"newstring2"
+			],
+			[
+				"new",
+				"newstring1"
+			],
+			[
+				"wiki",
+				"wikiname"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"homepag",
+				"homePageURL"
+			],
+			[
+				"page",
+				"pageTitle"
+			],
+			[
+				"create",
+				"createPageName"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"cate",
+				"categoryTemp"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"pa",
+				"pageName"
+			],
+			[
+				"array",
+				"array_chunk"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"im",
+				"background-image"
+			],
+			[
+				"out",
+				"outputFileName"
+			],
+			[
+				"course",
+				"courseFileName"
+			],
+			[
+				"userFil",
+				"userFileName"
+			],
+			[
+				"ar",
+				"arg"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"wsl_",
+				"wsl_helloworld"
+			],
+			[
+				"wsl_he",
+				"wsl_helloworld_menu"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"margn",
+				"margin-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 92.0,
+		"last_filter": "remov",
+		"selected_items":
+		[
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"js",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: p",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/markberthelemy/Documents/Code/reaper-ministries"
+	],
+	"file_history":
+	[
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/actions/admin.py",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/readme.md",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/pmo/urls.py",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/pmo/settings.py",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/actions/context_processors.py",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/actions/templates/actions/list.html",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/actions/urls.py",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/actions/views.py",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/__shared__/HTML-KickStart-master/css/style.css",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/actions/templates/actions/base.html",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/actions/models.py",
+		"/home/markberthelemy/Documents/Code/pmo-project/pmo/actions/templates/actions/actions/list.html",
+		"/home/markberthelemy/Documents/Code/django-learn1/mysite/blog/admin.py",
+		"/home/markberthelemy/Documents/Code/django-learn1/mysite/mysite/settings.py",
+		"/home/markberthelemy/Documents/Code/django-learn1/mysite/mysite/urls.py",
+		"/home/markberthelemy/Documents/Code/django-learn1/mysite/blog/urls.py",
+		"/home/markberthelemy/Documents/Code/django-learn1/mysite/blog/views.py",
+		"/home/markberthelemy/Documents/Code/django-learn1/mysite/blog/templates/blog/post/detail.html",
+		"/home/markberthelemy/Documents/Code/django-learn1/mysite/blog/templates/blog/post/list.html",
+		"/home/markberthelemy/Documents/Code/django-learn1/mysite/blog/templates/blog/base.html",
+		"/home/markberthelemy/Documents/Code/django-learn1/mysite/blog/models.py",
+		"/home/markberthelemy/Documents/Code/salesforce-web-to-case/index-jquery2.html",
+		"/home/markberthelemy/Documents/Code/salesforce-web-to-case/index.html",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_posts/2017-03-27-writing-for-web-checklist.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/30-values.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/20-services.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_layouts/page.html",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_people/gregor.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_posts/2017-10-10-lean-content-authoring.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_posts/2017-06-20-lti-missed-opportunity.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/20-about.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_includes/people.html",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_config.yml",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/100_people.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_people/vanessa.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_layouts/person.html",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_people/sarah.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/assets/overrides.css",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_people/mark.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_people/rachel.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_people/placeholder.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_includes/javascripts.html",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_includes/head.html",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_includes/person.html",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_layouts/people.html",
+		"/home/markberthelemy/Documents/Code/belpercommunitychurch/Gemfile",
+		"/home/markberthelemy/Documents/Code/belpercommunitychurch/.gitignore",
+		"/home/markberthelemy/Documents/Code/belpercommunitychurch/index.html",
+		"/home/markberthelemy/Documents/Code/belpercommunitychurch/_includes/head.html",
+		"/home/markberthelemy/Documents/Code/belpercommunitychurch/_config.yml",
+		"/home/markberthelemy/Documents/Code/belpercommunitychurch/_build-instructions.txt",
+		"/home/markberthelemy/Documents/Code/belpercommunitychurch/_includes/header.html",
+		"/home/markberthelemy/Documents/Code/belpercommunitychurch/_includes/top-menu.html",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_includes/associates.html",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/_posts/2016-12-02-learning-materials-quality-assurance.md",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/.gitignore",
+		"/home/markberthelemy/Documents/Code/wyver-solutions.github.io/Gemfile",
+		"/home/markberthelemy/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/home/markberthelemy/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/Users/markberthelemy/Documents/Code/blackshields/js/custom.js",
+		"/Users/markberthelemy/Documents/Code/blackshields/css/style.css",
+		"/Users/markberthelemy/Documents/Code/blackshields/css/overrides.css",
+		"/Users/markberthelemy/Documents/Code/blackshields/index.html",
+		"/Users/markberthelemy/temp/python/ex1.py",
+		"/Users/markberthelemy/temp/python/data.txt",
+		"/Users/markberthelemy/Documents/Code/meteor/questionnaire/lib/setup.js",
+		"/Users/markberthelemy/Documents/Code/meteor/questionnaire/client/templates/listQuestions.html",
+		"/Users/markberthelemy/Documents/Code/meteor/questionnaire/server/methods.js",
+		"/Users/markberthelemy/Documents/Code/meteor/questionnaire/client/templates/responderInfo.html",
+		"/Users/markberthelemy/Documents/Code/meteor/questionnaire/client/templates/answerQuestionsForm.html",
+		"/Users/markberthelemy/Documents/Code/meteor/questionnaire/client/templates/addQuestion.html",
+		"/Users/markberthelemy/Documents/Code/meteor/questionnaire/client/helpers.js",
+		"/Users/markberthelemy/Documents/Code/meteor/questionnaire/questionnaire.html",
+		"/Users/markberthelemy/Documents/Code/content-creation-landscape/index.html",
+		"/Users/markberthelemy/Documents/Code/content-creation-landscape/readme.md",
+		"/Users/markberthelemy/Documents/Code/node-xAPI-bulk-statements/generate.js",
+		"/Users/markberthelemy/Google Drive/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/xAPI definitions/mmtbitbucket/readme.md",
+		"/Users/markberthelemy/Library/Application Support/Sublime Text 2/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/markberthelemy/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/markberthelemy/Library/Application Support/Sublime Text 2/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/markberthelemy/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/markberthelemy/Library/Application Support/Sublime Text 2/Packages/JSON Reindent/JSONReindent.sublime-settings",
+		"/Users/markberthelemy/Library/Application Support/Sublime Text 2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/markberthelemy/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/examples/actor.json",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/examples/joined.json",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/examples/actor-account.json",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/examples/authority.json",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/examples/left.json",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/examples/experienced.json",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/examples/cancelled-planned-learning.json",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/examples/planned.json",
+		"/Users/markberthelemy/temp/xAPIWrapperTester-master/js/config.js",
+		"/Users/markberthelemy/Google Drive/Wyver Solutions/Clients/Capita/Axelos/Axelos-CPD-project/xAPI/outputs-from-mmt/Add-planned.js",
+		"/Users/markberthelemy/Documents/Code/html templates/html5up-prologue/index.html",
+		"/Users/markberthelemy/Documents/Code/html templates/html5up-prologue/js/jquery.scrollzer.min.js",
+		"/Users/markberthelemy/Documents/Code/bourgeal2/css/style.css",
+		"/Users/markberthelemy/Documents/Code/bourgeal2/CNAME",
+		"/Users/markberthelemy/Documents/Code/bourgeal2/index.html",
+		"/Users/markberthelemy/Documents/Code/microblog/run.py",
+		"/Users/markberthelemy/Documents/Code/microblog/db_create.py",
+		"/Users/markberthelemy/Documents/Code/microblog/db_migrate.py",
+		"/Users/markberthelemy/Documents/Code/microblog/db_upgrade.py",
+		"/Users/markberthelemy/Documents/Code/microblog/db_downgrade.py",
+		"/Users/markberthelemy/Documents/Code/microblog/app/templates/index.html",
+		"/Users/markberthelemy/Documents/Code/Peter/python1.py",
+		"/Users/markberthelemy/Documents/Code/Peter",
+		"/Users/markberthelemy/Documents/Code/LearningTechConsultantsNetwork/css/style.css",
+		"/Users/markberthelemy/Documents/Code/LearningTechConsultantsNetwork/index.html",
+		"/Users/markberthelemy/Documents/Code/berthelemy-family/index.html",
+		"/Users/markberthelemy/Documents/Code/jekyll-test-site/_site/index.html",
+		"/Users/markberthelemy/Documents/Code/mb_flowtime.js/examples/Career-planner/index.html",
+		"/Users/markberthelemy/Documents/Code/mb-jekyll-noita/about/index.md",
+		"/Users/markberthelemy/Documents/Code/Javascript-learning/primes.js",
+		"/Users/markberthelemy/Documents/Code/angularjs-tutorial/angular-phonecat/app/index.html",
+		"/Users/markberthelemy/Documents/Code/angularjs-tutorial/angular-phonecat/app/untitled",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/ELN/Database-exports-06052014/orders.csv",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/ELN/Database-exports-06052014/order-comments",
+		"/Users/markberthelemy/Documents/Wyver Solutions/Clients/ELN/Database-exports-06052014/users.csv",
+		"/Users/markberthelemy/temp/belper-church-email-list.csv",
+		"/Users/markberthelemy/Documents/Websites/moodle2/config.php",
+		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/build/readme.md",
+		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/upgrading.md",
+		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/about_xerte.md",
+		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/managing_a_xerte_site.md",
+		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/installing_xerte.md",
+		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/creating_learning_content.md",
+		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/developer_guide.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/markberthelemy/Documents/Code/microblog/app",
+			"/Users/markberthelemy/temp/24tips wp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"static",
+			"cent",
+			"four",
+			"kitch",
+			"test",
+			"border",
+			"cover",
+			"service",
+			"hover",
+			"font",
+			"phone",
+			"header",
+			"slider",
+			"color",
+			"goodtoknow",
+			"#contactus",
+			"slider",
+			"font",
+			"navbar",
+			".current",
+			"current",
+			"20px",
+			"brand",
+			"#contactus",
+			"contact",
+			"#contact",
+			"name",
+			"    #",
+			"service",
+			"services",
+			"pricingt",
+			"pricing",
+			"heading",
+			"pricing",
+			"heading",
+			"*/\n",
+			"div.copyright {\n    padding-top: 50px;\n    height: 100px;\n}",
+			"services",
+			"_",
+			"form",
+			"service",
+			"data",
+			"cons",
+			"console",
+			"moment",
+			"mom",
+			"      //",
+			"response",
+			"assertion",
+			"extension",
+			"\",\n",
+			"extension",
+			"\",\n",
+			"rating",
+			"draft",
+			"evidence",
+			"/activitytypes/",
+			"extensions",
+			"categories",
+			"category",
+			"date",
+			"evaluat",
+			"evidence",
+			"mbox",
+			"contextA",
+			"}\n",
+			"activitytype",
+			"/type/",
+			"/scheme/",
+			"scheme",
+			"url",
+			"autho",
+			"groupingtype",
+			"type",
+			"                        ",
+			"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              ",
+			"active",
+			"adapt",
+			"active",
+			"scroll",
+			"-->\n",
+			"map",
+			"alt=\"\"",
+			"the-house",
+			"house-fr",
+			"settee",
+			"front",
+			"see",
+			"kitch",
+			"clear",
+			"TestForm",
+			"overf",
+			"navbar",
+			"<td></td>",
+			"id=\"tabs",
+			"      <",
+			"thumb",
+			"1",
+			"eval(",
+			"eval",
+			" ",
+			" >",
+			"style=\"(.*?)\"",
+			"homePage",
+			"homePageURL",
+			"wiki",
+			"homeP",
+			"|",
+			"        ",
+			"Managing a Xerte site \n\t\tAuthentication \n\t\tManaging accounts \n\t\tRoles and permissions \n\t\tSecurity \n\t\tPerformance \n\t\tBackup \n\t\tSite appearance \n        ",
+			"Managing a Xerte site \n\t\tAuthentication \n\t\tManaging accounts \n\t\tRoles and permissions \n\t\tSecurity \n\t\tPerformance \n\t\tBackup \n\t\tSite appearance \n\t\t",
+			"homepage",
+			"homePageURL",
+			"home",
+			"pageT",
+			";\n",
+			"•   ",
+			"arg",
+			" width=\"...\"",
+			" width=\"298\"",
+			" width=\"145\"",
+			"</ul>",
+			"</li>",
+			"<a href=\"http://localhost/DefAc_NMP/index.html#\" style=\"margin: 0px; padding: 5px; color: rgb(102, 102, 102); text-decoration: none; border: 1px solid rgb(204, 204, 204); font-family: arial, verdana, tahoma; font-size: 11px; display: inline-block; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; -webkit-transition: all 0.5s;\"></a>",
+			"<li style=\"margin: 0px; padding: 20px 5px 0px; float: left; text-align: center; list-style-type: none; position: relative; -webkit-transition: all 0.5s;\">",
+			"<ul style=\"margin: 0px 0px 0px 25px; padding: 20px 0px 0px; position: relative; -webkit-transition: all 0.5s; color: rgb(51, 51, 51); font-family: 'helvetica neue', helvetica, arial, sans-serif; font-size: 14px; line-height: 20px; text-align: center;\">\n                            <li style=\"margin: 0px; padding: 20px 5px 0px; float: left; text-align: center; list-style-type: none; position: relative; -webkit-transition: all 0.5s;\">\n                                <a href=\"http://localhost/DefAc_NMP/index.html#\" style=\"margin: 0px; padding: 5px; color: rgb(0, 0, 0); text-decoration: none; outline: 0px; border: 1px solid rgb(148, 160, 180); font-family: arial, verdana, tahoma; font-size: 11px; display: inline-block; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; -webkit-transition: all 0.5s; background-color: rgb(200, 228, 248);\"></a>",
+			"<br>",
+			" class=\"name\" style=\"margin: 0px 0px 10px; padding: 0px;\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/activitytype/",
+			"/activitytypes/",
+			"/schema/",
+			"",
+			"<td>&nbsp;</td>",
+			"class=\"tabs",
+			"",
+			">",
+			"",
+			"| ldap_id | ldap_knownname | ldap_host | ldap_port | ldap_username                      | ldap_password | ldap_basedn                          | ldap_filter | ldap_filter_attr |",
+			"# ",
+			"",
+			"<br />",
+			"",
+			"(./images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "reaper-ministries.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

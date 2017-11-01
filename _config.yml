@@ -1,8 +1,14 @@
-name: Alpha
-description: Alphs template for Jekyll
-baseurl: '/Alpha-Jekyll-Theme'
+name: Reaper Ministries
+description: Taking the love of God to a hurting people.
+baseurl: ''
+keywords: Christian, school, Africa, Kenya, India
 
 url: "http://localhost:4000"
 
 paginate: 10
+
+sass:
+    sass_dir: ./_scss
+
+
 
