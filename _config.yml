@@ -7,8 +7,7 @@ url: "http://localhost:4000"
 
 paginate: 10
 
-sass:
-    sass_dir: ./_scss
+
 
 include: ["_pages"]
 
