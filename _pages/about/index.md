@@ -1,5 +1,6 @@
 ---
 title: About
+longTitle: About Reaper Ministries
 layout: default
 permalink: /about/
 image: pic01.jpg

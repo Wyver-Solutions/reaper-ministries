@@ -1,7 +1,7 @@
 {% include header.html %}
 	{% if page.url != "/" %}
 	<header>
-		<h2>{{ page.title }}</h2>
+		<h2>{% if page.longTitle %}{{ page.longTitle }}{% else %}{{ page.title }}{% endif %}</h2>
 		<p>{{ page.description }}</p>
 	</header>
 	{% endif %}
