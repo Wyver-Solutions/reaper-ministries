@@ -459,6 +459,96 @@
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 39,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!-- Header -->\n\t<header id=\"header\" class=\"alt\">\n\t\t<h1><a href=\"{{ site.baseurl }}/index.html\">{{ title }}</h1>\n\t\t<nav id=\"nav\">\n\t\t\t<ul>\n\t\t\t\t<li><a href=\"{{ site.baseurl }}/index.html\">Home</a></li>\n\t\t\t\t<li><a href=\"{{ site.baseurl }}/blog\">Blog</a></li>\n\t\t\t\t<li>\n\t\t\t\t\t<a href=\"\" class=\"icon fa-angle-down\">Layouts</a>\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t<li><a href=\"#\">Generic</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Contact</a></li>\n\t\t\t\t\t\t<li><a href=\"#\">Elements</a></li>\n\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t<a href=\"\">Submenu</a>\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Option One</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Option Two</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Option Three</a></li>\n\t\t\t\t\t\t\t\t<li><a href=\"#\">Option Four</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\t\t</li>\n\t\t\t\t<li><a href=\"#\" class=\"button\">Sign Up</a></li>\n\t\t\t</ul>\n\t\t</nav>\n\t</header>\n",
+			"file": "_includes/nav.html",
+			"file_size": 807,
+			"file_write_time": 131540236399617081,
+			"settings":
+			{
+				"buffer_size": 807,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 219,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\ntitle: Home\nlayout: default\npermalink: /\n---\n<section class=\"box special\">\n\t<header class=\"major\">\n\t\t<h2>Introducing the ultimate mobile app10\n\t\t<br />\n\t\tfor doing stuff with your phone</h2>\n\t\t<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br />\n\t\tadipiscing nunc adipiscing. Condimentum turpis massa.</p>\n\t</header>\n\t<span class=\"image featured\"><img src=\"{{ site.baseurl }}/assets/images/pic01.jpg\" alt=\"\" /></span>\n</section>\n\n<section class=\"box special features\">\n\t<div class=\"features-row\">\n\t\t<section>\n\t\t\t<span class=\"icon major fa-bolt accent2\"></span>\n\t\t\t<h3>Magna etiam</h3>\n\t\t\t<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>\n\t\t</section>\n\t\t<section>\n\t\t\t<span class=\"icon major fa-area-chart accent3\"></span>\n\t\t\t<h3>Ipsum dolor</h3>\n\t\t\t<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>\n\t\t</section>\n\t</div>\n\t<div class=\"features-row\">\n\t\t<section>\n\t\t\t<span class=\"icon major fa-cloud accent4\"></span>\n\t\t\t<h3>Sed feugiat</h3>\n\t\t\t<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>\n\t\t</section>\n\t\t<section>\n\t\t\t<span class=\"icon major fa-lock accent5\"></span>\n\t\t\t<h3>Enim phasellus</h3>\n\t\t\t<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>\n\t\t</section>\n\t</div>\n</section>\n\n<div class=\"row\">\n\t<div class=\"6u\">\n\n\t\t<section class=\"box special\">\n\t\t\t<span class=\"image featured\"><img src=\"{{ site.baseurl }}/assets/images/pic02.jpg\" alt=\"\" /></span>\n\t\t\t<h3>Sed lorem adipiscing</h3>\n\t\t\t<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>\n\t\t\t<ul class=\"actions\">\n\t\t\t\t<li><a href=\"#\" class=\"button alt\">Learn More</a></li>\n\t\t\t</ul>\n\t\t</section>\n\n\t</div>\n\t<div class=\"6u\">\n\n\t\t<section class=\"box special\">\n\t\t\t<span class=\"image featured\"><img src=\"{{ site.baseurl }}/assets/images/pic03.jpg\" alt=\"\" /></span>\n\t\t\t<h3>Accumsan integer</h3>\n\t\t\t<p>Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>\n\t\t\t<ul class=\"actions\">\n\t\t\t\t<li><a href=\"#\" class=\"button alt\">Learn More</a></li>\n\t\t\t</ul>\n\t\t</section>\n\n\t</div>\n</div>\n",
+			"file": "index.html",
+			"file_size": 2627,
+			"file_write_time": 131540252806702225,
+			"settings":
+			{
+				"buffer_size": 2627,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE HTML>\n<!--\n\tAlpha by HTML5 UP\n\thtml5up.net | @n33co\n\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license)\n-->\n<html>\n\t<head>\n\t\t<title>{{ site.name }} > {{ page.title }}</title>\n\t\t<meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" />\n\t\t<meta name=\"description\" content=\"{{ site.description }}\" content=\"\" />\n\t\t<meta name=\"keywords\" content=\"{{ site.keywords }}\" content=\"\" />\n\n\t\t\n\t\n\t\t\t<!--[if lte IE 8]><script src=\"{{ site.baseurl }}/assets/css/ie/html5shiv.js\"></script><![endif]-->\n\n\t\t\n\t\t<script src=\"{{ site.baseurl }}/assets/js/jquery.min.js\"></script>\n\t\t<script src=\"{{ site.baseurl }}/assets/js/jquery.dropotron.min.js\"></script>\n\t\t<script src=\"{{ site.baseurl }}/assets/js/skel.min.js\"></script>\n\t\t<script src=\"{{ site.baseurl }}/assets/js/skel-layers.min.js\"></script>\n\t\t<script src=\"{{ site.baseurl }}/assets/js/jquery.scrollgress.min.js\"></script>\n\t\t<script src=\"{{ site.baseurl }}/assets/js/init.js\"></script>\n\t\t\n\t\t\n\t\t\t<link rel=\"stylesheet\" href=\"{{ site.baseurl }}/assets/css/skel.css\" />\n\t\t\t<link rel=\"stylesheet\" href=\"{{ site.baseurl }}/assets/css/style.css\" />\n\t\t\t<!-- <link rel=\"stylesheet\" href=\"{{ site.baseurl }}/assets/css/style-desktop.css\" />-->\n\t\t\n\t\t<!--[if lte IE 8]><link rel=\"stylesheet\" href=\"{{ site.baseurl }}/assets/css/ie/v8.css\" /><![endif]-->\n\t</head>\n\t{% if page.url == \"/index.html\" %}\n\t\t<!-- Banner -->\n\t\t<body class=\"landing\">\n\t\t\t<section id=\"banner\">\n\t\t\t\t<h2>{{ site.name }}</h2>\n\t\t\t\t<p>{{ site.description }}</p>\n\t\t\t\t<ul class=\"actions\">\n\t\t\t\t\t<li><a href=\"#\" class=\"button special\">Sign Up</a></li>\n\t\t\t\t\t<li><a href=\"#\" class=\"button\">Learn More</a></li>\n\t\t\t\t</ul>\n\t\t\t</section>\n\t{% else %}\n\t\t<body>\n\t\t\t<section id=\"banner\"></section>\n\t{% endif %}\n\t{% include nav.html %}\n\t<!-- Main -->\n\t<section id=\"main\" class=\"container\">\n",
+			"file": "_includes/header.html",
+			"file_size": 1825,
+			"file_write_time": 131540258846413530,
+			"settings":
+			{
+				"buffer_size": 1825,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@import url(font-awesome.min.css);\n@import url(\"http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic\");\n\n\n/* \n    ok\n\tAlpha by HTML5 UP\n\thtml5up.net | @n33co\n\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license)\n*/\n\n/* Basic */\n\n\tbody {\n\t\tbackground: #f5f5f5;\n\t}\n\n\tbody, input, select, textarea {\n\t\tcolor: #777;\n\t\tfont-family: \"Source Sans Pro\", sans-serif;\n\t\tfont-size: 16pt;\n\t\tfont-weight: 300;\n\t\tline-height: 1.65em;\n\t\tletter-spacing: -0.015em;\n\t}\n\n\ta {\n\t\t-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;\n\t\t-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;\n\t\t-o-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;\n\t\t-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;\n\t\ttransition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;\n\t\tborder-bottom: dotted 1px;\n\t\tcolor: #e89980;\n\t\ttext-decoration: none;\n\t}\n\n\t\ta:hover {\n\t\t\tborder-bottom-color: transparent;\n\t\t}\n\n\tstrong, b {\n\t\tcolor: #646464;\n\t\tfont-weight: 400;\n\t}\n\n\tem, i {\n\t\tfont-style: italic;\n\t}\n\n\tp {\n\t\tmargin: 0 0 2em 0;\n\t}\n\n\th1, h2, h3, h4, h5, h6 {\n\t\tcolor: #646464;\n\t\tfont-weight: 300;\n\t\tline-height: 1em;\n\t\tmargin: 0 0 0.5em 0;\n\t}\n\n\t\th1 a, h2 a, h3 a, h4 a, h5 a, h6 a {\n\t\t\tcolor: inherit;\n\t\t\ttext-decoration: none;\n\t\t}\n\n\th2 {\n\t\tfont-size: 2.25em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: -0.035em;\n\t}\n\n\th3 {\n\t\tfont-size: 1.75em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: -0.025em;\n\t}\n\n\th4 {\n\t\tfont-size: 1.1em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: 0;\n\t}\n\n\th5 {\n\t\tfont-size: 0.9em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: 0;\n\t}\n\n\th6 {\n\t\tfont-size: 0.7em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: 0;\n\t}\n\n\tsub {\n\t\tfont-size: 0.8em;\n\t\tposition: relative;\n\t\ttop: 0.5em;\n\t}\n\n\tsup {\n\t\tfont-size: 0.8em;\n\t\tposition: relative;\n\t\ttop: -0.5em;\n\t}\n\n\thr {\n\t\tborder: 0;\n\t\tborder-bottom: solid 2px #e5e5e5;\n\t\tmargin: 2em 0;\n\t}\n\n\t\thr.major {\n\t\t\tmargin: 3em 0;\n\t\t}\n\n\tblockquote {\n\t\tborder-left: solid 4px #e5e5e5;\n\t\tfont-style: italic;\n\t\tmargin: 0 0 2em 0;\n\t\tpadding: 0.5em 0 0.5em 2em;\n\t}\n\n\tpre {\n\t\t-webkit-overflow-scrolling: touch;\n\t\tbackground: #f8f8f8;\n\t\tborder-radius: 6px;\n\t\tborder: solid 1px #e5e5e5;\n\t\tfont-family: monospace;\n\t\tfont-size: 0.9em;\n\t\tline-height: 1.75em;\n\t\tmargin: 0 0 2em 0;\n\t\toverflow-x: auto;\n\t\tpadding: 1em 1.5em;\n\t}\n\n\tcode {\n\t\tbackground: #f8f8f8;\n\t\tborder-radius: 6px;\n\t\tborder: solid 1px #e5e5e5;\n\t\tfont-family: monospace;\n\t\tfont-size: 0.9em;\n\t\tmargin: 0 0.25em;\n\t\tpadding: 0.25em 0.65em;\n\t}\n\n\t.align-left {\n\t\ttext-align: left;\n\t}\n\n\t.align-center {\n\t\ttext-align: center;\n\t}\n\n\t.align-right {\n\t\ttext-align: right;\n\t}\n\n/* Section/Article */\n\n\tsection.special, article.special {\n\t\ttext-align: center;\n\t}\n\n\theader p {\n\t\tcolor: #999;\n\t\tposition: relative;\n\t\tmargin: 0 0 1.5em 0;\n\t\tfont-style: italic;\n\t}\n\n\theader h2 + p {\n\t\tfont-size: 1.25em;\n\t\tmargin-top: -1em;\n\t\tline-height: 1.5em;\n\t}\n\n\theader h3 + p {\n\t\tfont-size: 1.1em;\n\t\tmargin-top: -0.85em;\n\t\tline-height: 1.5em;\n\t}\n\n\theader h4 + p,\n\theader h5 + p,\n\theader h6 + p {\n\t\tfont-size: 0.8em;\n\t\tmargin-top: -0.5em;\n\t\tline-height: 1.5em;\n\t}\n\n\theader.major {\n\t\tpadding: 1em 0;\n\t\ttext-align: center;\n\t}\n\n\t\theader.major h2 {\n\t\t\tmargin: 0;\n\t\t}\n\n\t\theader.major p {\n\t\t\tdisplay: inline-block;\n\t\t\tborder-top: solid 2px #e5e5e5;\n\t\t\tcolor: #777;\n\t\t\tmargin: 1.5em 0 0 0;\n\t\t\tpadding: 1.5em 0 0 0;\n\t\t\tfont-style: normal;\n\t\t}\n\n/* Form */\n\n\tform {\n\t\tmargin: 0 0 2em 0;\n\t}\n\n\tlabel {\n\t\tcolor: #646464;\n\t\tdisplay: block;\n\t\tfont-size: 0.9em;\n\t\tfont-weight: 300;\n\t\tmargin: 0 0 1em 0;\n\t}\n\n\tinput[type=\"text\"],\n\tinput[type=\"password\"],\n\tinput[type=\"email\"],\n\tselect,\n\ttextarea {\n\t\t-moz-appearance: none;\n\t\t-webkit-appearance: none;\n\t\t-o-appearance: none;\n\t\t-ms-appearance: none;\n\t\tappearance: none;\n\t\tbackground: #f8f8f8;\n\t\tborder-radius: 6px;\n\t\tborder: solid 1px #e5e5e5;\n\t\tcolor: inherit;\n\t\tdisplay: block;\n\t\toutline: 0;\n\t\tpadding: 0 1em;\n\t\ttext-decoration: none;\n\t\twidth: 100%;\n\t}\n\n\t\tinput[type=\"text\"]:invalid,\n\t\tinput[type=\"password\"]:invalid,\n\t\tinput[type=\"email\"]:invalid,\n\t\tselect:invalid,\n\t\ttextarea:invalid {\n\t\t\tbox-shadow: none;\n\t\t}\n\n\t\tinput[type=\"text\"]:focus,\n\t\tinput[type=\"password\"]:focus,\n\t\tinput[type=\"email\"]:focus,\n\t\tselect:focus,\n\t\ttextarea:focus {\n\t\t\tborder-color: #e89980;\n\t\t\tbox-shadow: 0 0 0 2px #e89980;\n\t\t}\n\n\t.select-wrapper {\n\t\ttext-decoration: none;\n\t\tdisplay: block;\n\t\tposition: relative;\n\t}\n\n\t\t.select-wrapper:before {\n\t\t\t-moz-osx-font-smoothing: grayscale;\n\t\t\t-webkit-font-smoothing: antialiased;\n\t\t\tfont-family: FontAwesome;\n\t\t\tfont-style: normal;\n\t\t\tfont-weight: normal;\n\t\t\ttext-transform: none !important;\n\t\t}\n\n\t\t.select-wrapper:before {\n\t\t\tcolor: #e5e5e5;\n\t\t\tcontent: '\\f078';\n\t\t\tdisplay: block;\n\t\t\theight: 3em;\n\t\t\tline-height: 3em;\n\t\t\tpointer-events: none;\n\t\t\tposition: absolute;\n\t\t\tright: 0;\n\t\t\ttext-align: center;\n\t\t\ttop: 0;\n\t\t\twidth: 3em;\n\t\t}\n\n\t\t.select-wrapper select::-ms-expand {\n\t\t\tdisplay: none;\n\t\t}\n\n\tinput[type=\"text\"],\n\tinput[type=\"password\"],\n\tinput[type=\"email\"],\n\tselect {\n\t\theight: 3em;\n\t}\n\n\ttextarea {\n\t\tpadding: 0.75em 1em;\n\t}\n\n\tinput[type=\"checkbox\"],\n\tinput[type=\"radio\"] {\n\t\t-moz-appearance: none;\n\t\t-webkit-appearance: none;\n\t\t-o-appearance: none;\n\t\t-ms-appearance: none;\n\t\tappearance: none;\n\t\tdisplay: block;\n\t\tfloat: left;\n\t\tmargin-right: -2em;\n\t\topacity: 0;\n\t\twidth: 1em;\n\t\tz-index: -1;\n\t}\n\n\t\tinput[type=\"checkbox\"] + label,\n\t\tinput[type=\"radio\"] + label {\n\t\t\ttext-decoration: none;\n\t\t\tcolor: #777;\n\t\t\tcursor: pointer;\n\t\t\tdisplay: inline-block;\n\t\t\tfont-size: 1em;\n\t\t\tfont-weight: 300;\n\t\t\tpadding-left: 2.55em;\n\t\t\tpadding-right: 0.75em;\n\t\t\tposition: relative;\n\t\t}\n\n\t\t\tinput[type=\"checkbox\"] + label:before,\n\t\t\tinput[type=\"radio\"] + label:before {\n\t\t\t\t-moz-osx-font-smoothing: grayscale;\n\t\t\t\t-webkit-font-smoothing: antialiased;\n\t\t\t\tfont-family: FontAwesome;\n\t\t\t\tfont-style: normal;\n\t\t\t\tfont-weight: normal;\n\t\t\t\ttext-transform: none !important;\n\t\t\t}\n\n\t\t\tinput[type=\"checkbox\"] + label:before,\n\t\t\tinput[type=\"radio\"] + label:before {\n\t\t\t\tbackground: #f8f8f8;\n\t\t\t\tborder-radius: 6px;\n\t\t\t\tborder: solid 1px #e5e5e5;\n\t\t\t\tcontent: '';\n\t\t\t\tdisplay: inline-block;\n\t\t\t\theight: 1.8em;\n\t\t\t\tleft: 0;\n\t\t\t\tline-height: 1.725em;\n\t\t\t\tposition: absolute;\n\t\t\t\ttext-align: center;\n\t\t\t\ttop: 0;\n\t\t\t\twidth: 1.8em;\n\t\t\t}\n\n\t\tinput[type=\"checkbox\"]:checked + label:before,\n\t\tinput[type=\"radio\"]:checked + label:before {\n\t\t\tbackground: #666;\n\t\t\tborder-color: #666;\n\t\t\tcolor: #ffffff;\n\t\t\tcontent: '\\f00c';\n\t\t}\n\n\t\tinput[type=\"checkbox\"]:focus + label:before,\n\t\tinput[type=\"radio\"]:focus + label:before {\n\t\t\tborder-color: #e89980;\n\t\t\tbox-shadow: 0 0 0 1px #e89980;\n\t\t}\n\n\tinput[type=\"checkbox\"] + label:before {\n\t\tborder-radius: 6px;\n\t}\n\n\tinput[type=\"radio\"] + label:before {\n\t\tborder-radius: 100%;\n\t}\n\n\t::-webkit-input-placeholder {\n\t\tcolor: #999 !important;\n\t\topacity: 1.0;\n\t}\n\n\t:-moz-placeholder {\n\t\tcolor: #999 !important;\n\t\topacity: 1.0;\n\t}\n\n\t::-moz-placeholder {\n\t\tcolor: #999 !important;\n\t\topacity: 1.0;\n\t}\n\n\t:-ms-input-placeholder {\n\t\tcolor: #999 !important;\n\t\topacity: 1.0;\n\t}\n\n\t.formerize-placeholder {\n\t\tcolor: #999 !important;\n\t\topacity: 1.0;\n\t}\n\n/* Box */\n\n\t.box {\n\t\tbackground: #fff;\n\t\tborder-radius: 6px;\n\t\tbox-shadow: 0 2px 0 0 #e5e5e5;\n\t\tmargin: 0 0 2em 0;\n\t\tpadding: 3em;\n\t}\n\n\t\t.box > :last-child {\n\t\t\tmargin-bottom: 0;\n\t\t}\n\n\t\t.box.alt {\n\t\t\tbackground: none !important;\n\t\t\tborder-radius: 0 !important;\n\t\t\tbox-shadow: none !important;\n\t\t\tmargin: 0 0 2em 0;\n\t\t\tpadding: 0 !important;\n\t\t}\n\n\t\t.box.features .features-row {\n\t\t\tborder-top: solid 2px #e5e5e5;\n\t\t\tposition: relative;\n\t\t}\n\n\t\t\t.box.features .features-row:after {\n\t\t\t\tclear: both;\n\t\t\t\tcontent: '';\n\t\t\t\tdisplay: block;\n\t\t\t}\n\n\t\t\t.box.features .features-row section {\n\t\t\t\tfloat: left;\n\t\t\t\tpadding: 3em;\n\t\t\t\twidth: 50%;\n\t\t\t}\n\n\t\t\t\t.box.features .features-row section :last-child {\n\t\t\t\t\tmargin-bottom: 0;\n\t\t\t\t}\n\n\t\t\t\t.box.features .features-row section:nth-child(2n) {\n\t\t\t\t\tpadding-right: 0;\n\t\t\t\t}\n\n\t\t\t\t\t.box.features .features-row section:nth-child(2n):before {\n\t\t\t\t\t\tbackground: #e5e5e5;\n\t\t\t\t\t\tcontent: '';\n\t\t\t\t\t\tdisplay: block;\n\t\t\t\t\t\theight: 100%;\n\t\t\t\t\t\tmargin-left: -3em;\n\t\t\t\t\t\tposition: absolute;\n\t\t\t\t\t\ttop: 0;\n\t\t\t\t\t\twidth: 2px;\n\t\t\t\t\t}\n\n\t\t\t\t.box.features .features-row section:nth-child(2n-1) {\n\t\t\t\t\tpadding-left: 0;\n\t\t\t\t}\n\n\t\t\t.box.features .features-row:first-child {\n\t\t\t\tborder-top: 0;\n\t\t\t}\n\n\t\t\t\t.box.features .features-row:first-child section {\n\t\t\t\t\tpadding-top: 0;\n\t\t\t\t}\n\n\t\t\t.box.features .features-row:last-child {\n\t\t\t\tpadding-bottom: 0;\n\t\t\t}\n\n\t\t\t\t.box.features .features-row:last-child section {\n\t\t\t\t\tpadding-bottom: 0;\n\t\t\t\t}\n\n\t\t.box.special {\n\t\t\ttext-align: center;\n\t\t}\n\n\t\t.box .image.featured {\n\t\t\tborder-radius: 0;\n\t\t\tdisplay: block;\n\t\t\tmargin: 3em 0 3em -3em;\n\t\t\tposition: relative;\n\t\t\twidth: calc(100% + 6em);\n\t\t}\n\n\t\t\t.box .image.featured img {\n\t\t\t\tborder-radius: 0;\n\t\t\t\tdisplay: block;\n\t\t\t\twidth: 100%;\n\t\t\t}\n\n\t\t\t.box .image.featured:first-child {\n\t\t\t\tborder-radius: 6px 6px 0 0;\n\t\t\t\tmargin-bottom: 3em;\n\t\t\t\tmargin-top: -3em;\n\t\t\t}\n\n\t\t\t\t.box .image.featured:first-child img {\n\t\t\t\t\tborder-radius: 6px 6px 0 0;\n\t\t\t\t}\n\n\t\t\t.box .image.featured:last-child {\n\t\t\t\tborder-radius: 0 0 6px 6px;\n\t\t\t\tmargin-bottom: -3em;\n\t\t\t\tmargin-top: 3em;\n\t\t\t}\n\n\t\t\t\t.box .image.featured:last-child img {\n\t\t\t\t\tborder-radius: 0 0 6px 6px;\n\t\t\t\t}\n\n/* Icon */\n\n\t.icon {\n\t\ttext-decoration: none;\n\t\tborder-bottom: none;\n\t\tposition: relative;\n\t}\n\n\t\t.icon:before {\n\t\t\t-moz-osx-font-smoothing: grayscale;\n\t\t\t-webkit-font-smoothing: antialiased;\n\t\t\tfont-family: FontAwesome;\n\t\t\tfont-style: normal;\n\t\t\tfont-weight: normal;\n\t\t\ttext-transform: none !important;\n\t\t}\n\n\t\t.icon > .label {\n\t\t\tdisplay: none;\n\t\t}\n\n\t\t.icon.major {\n\t\t\tbackground: #666;\n\t\t\tborder-radius: 100%;\n\t\t\tcolor: #ffffff;\n\t\t\tcursor: default;\n\t\t\tdisplay: inline-block;\n\t\t\theight: 5.5em;\n\t\t\tline-height: 5.5em;\n\t\t\tmargin: 0 0 2em 0;\n\t\t\twidth: 5.5em;\n\t\t}\n\n\t\t\t.icon.major:before {\n\t\t\t\tfont-size: 2.5em;\n\t\t\t}\n\n\t\t\t.icon.major.accent1 {\n\t\t\t\tbackground: #666;\n\t\t\t\tcolor: #ffffff;\n\t\t\t}\n\n\t\t\t.icon.major.accent2 {\n\t\t\t\tbackground: #e89980;\n\t\t\t\tcolor: #ffffff;\n\t\t\t}\n\n\t\t\t.icon.major.accent3 {\n\t\t\t\tbackground: #7fcdb8;\n\t\t\t\tcolor: #ffffff;\n\t\t\t}\n\n\t\t\t.icon.major.accent4 {\n\t\t\t\tbackground: #90b0ba;\n\t\t\t\tcolor: #ffffff;\n\t\t\t}\n\n\t\t\t.icon.major.accent5 {\n\t\t\t\tbackground: #e5cb95;\n\t\t\t\tcolor: #ffffff;\n\t\t\t}\n\n/* Image */\n\n\t.image {\n\t\tborder-radius: 6px;\n\t\tborder: 0;\n\t\tdisplay: inline-block;\n\t\tposition: relative;\n\t}\n\n\t\t.image img {\n\t\t\tborder-radius: 6px;\n\t\t\tdisplay: block;\n\t\t}\n\n\t\t.image.left {\n\t\t\tfloat: left;\n\t\t\tpadding: 0 1.5em 1em 0;\n\t\t\ttop: 0.25em;\n\t\t}\n\n\t\t.image.right {\n\t\t\tfloat: right;\n\t\t\tpadding: 0 0 1em 1.5em;\n\t\t\ttop: 0.25em;\n\t\t}\n\n\t\t.image.fit {\n\t\t\tdisplay: block;\n\t\t\tmargin: 0 0 2em 0;\n\t\t\twidth: 100%;\n\t\t}\n\n\t\t\t.image.fit img {\n\t\t\t\tdisplay: block;\n\t\t\t\twidth: 100%;\n\t\t\t}\n\n/* List */\n\n\tol {\n\t\tlist-style: decimal;\n\t\tmargin: 0 0 2em 0;\n\t\tpadding-left: 1.25em;\n\t}\n\n\t\tol li {\n\t\t\tpadding-left: 0.25em;\n\t\t}\n\n\tul {\n\t\tlist-style: disc;\n\t\tmargin: 0 0 2em 0;\n\t\tpadding-left: 1em;\n\t}\n\n\t\tul li {\n\t\t\tpadding-left: 0.5em;\n\t\t}\n\n\t\tul.alt {\n\t\t\tlist-style: none;\n\t\t\tpadding-left: 0;\n\t\t}\n\n\t\t\tul.alt li {\n\t\t\t\tborder-top: solid 1px #e5e5e5;\n\t\t\t\tpadding: 0.5em 0;\n\t\t\t}\n\n\t\t\t\tul.alt li:first-child {\n\t\t\t\t\tborder-top: 0;\n\t\t\t\t\tpadding-top: 0;\n\t\t\t\t}\n\n\t\tul.icons {\n\t\t\tcursor: default;\n\t\t\tlist-style: none;\n\t\t\tpadding-left: 0;\n\t\t}\n\n\t\t\tul.icons li {\n\t\t\t\tdisplay: inline-block;\n\t\t\t\tpadding: 0 1.25em 0 0;\n\t\t\t}\n\n\t\t\t\tul.icons li:last-child {\n\t\t\t\t\tpadding-right: 0;\n\t\t\t\t}\n\n\t\t\t\tul.icons li .icon {\n\t\t\t\t\tcolor: inherit;\n\t\t\t\t}\n\n\t\t\t\t\tul.icons li .icon:before {\n\t\t\t\t\t\tfont-size: 1.75em;\n\t\t\t\t\t}\n\n\t\tul.actions {\n\t\t\tcursor: default;\n\t\t\tlist-style: none;\n\t\t\tpadding-left: 0;\n\t\t}\n\n\t\t\tul.actions li {\n\t\t\t\tdisplay: inline-block;\n\t\t\t\tpadding: 0 1em 0 0;\n\t\t\t\tvertical-align: middle;\n\t\t\t}\n\n\t\t\t\tul.actions li:last-child {\n\t\t\t\t\tpadding-right: 0;\n\t\t\t\t}\n\n\t\t\tul.actions.small li {\n\t\t\t\tpadding: 0 0.5em 0 0;\n\t\t\t}\n\n\t\t\tul.actions.vertical li {\n\t\t\t\tdisplay: block;\n\t\t\t\tpadding: 1em 0 0 0;\n\t\t\t}\n\n\t\t\t\tul.actions.vertical li:first-child {\n\t\t\t\t\tpadding-top: 0;\n\t\t\t\t}\n\n\t\t\t\tul.actions.vertical li > * {\n\t\t\t\t\tmargin-bottom: 0;\n\t\t\t\t}\n\n\t\t\tul.actions.vertical.small li {\n\t\t\t\tpadding: 0.5em 0 0 0;\n\t\t\t}\n\n\t\t\t\tul.actions.vertical.small li:first-child {\n\t\t\t\t\tpadding-top: 0;\n\t\t\t\t}\n\n\t\t\tul.actions.fit {\n\t\t\t\tdisplay: table;\n\t\t\t\tmargin-left: -1em;\n\t\t\t\tpadding: 0;\n\t\t\t\ttable-layout: fixed;\n\t\t\t\twidth: calc(100% + 1em);\n\t\t\t}\n\n\t\t\t\tul.actions.fit li {\n\t\t\t\t\tdisplay: table-cell;\n\t\t\t\t\tpadding: 0 0 0 1em;\n\t\t\t\t}\n\n\t\t\t\t\tul.actions.fit li > * {\n\t\t\t\t\t\tmargin-bottom: 0;\n\t\t\t\t\t}\n\n\t\t\t\tul.actions.fit.small {\n\t\t\t\t\tmargin-left: -0.5em;\n\t\t\t\t\twidth: calc(100% + 0.5em);\n\t\t\t\t}\n\n\t\t\t\t\tul.actions.fit.small li {\n\t\t\t\t\t\tpadding: 0 0 0 0.5em;\n\t\t\t\t\t}\n\n\tdl {\n\t\tmargin: 0 0 2em 0;\n\t}\n\n/* Table */\n\n\t.table-wrapper {\n\t\t-webkit-overflow-scrolling: touch;\n\t\toverflow-x: auto;\n\t}\n\n\ttable {\n\t\tmargin: 0 0 2em 0;\n\t\twidth: 100%;\n\t}\n\n\t\ttable tbody tr {\n\t\t\tborder: solid 1px #e5e5e5;\n\t\t\tborder-left: 0;\n\t\t\tborder-right: 0;\n\t\t}\n\n\t\t\ttable tbody tr:nth-child(2n + 1) {\n\t\t\t\tbackground-color: #f8f8f8;\n\t\t\t}\n\n\t\ttable td {\n\t\t\tpadding: 0.75em 0.75em;\n\t\t}\n\n\t\ttable th {\n\t\t\tcolor: #646464;\n\t\t\tfont-size: 0.9em;\n\t\t\tfont-weight: 300;\n\t\t\tpadding: 0 0.75em 0.75em 0.75em;\n\t\t\ttext-align: left;\n\t\t}\n\n\t\ttable thead {\n\t\t\tborder-bottom: solid 2px #e5e5e5;\n\t\t}\n\n\t\ttable tfoot {\n\t\t\tborder-top: solid 2px #e5e5e5;\n\t\t}\n\n\t\ttable.alt {\n\t\t\tborder-collapse: separate;\n\t\t}\n\n\t\t\ttable.alt tbody tr td {\n\t\t\t\tborder: solid 1px #e5e5e5;\n\t\t\t\tborder-left-width: 0;\n\t\t\t\tborder-top-width: 0;\n\t\t\t}\n\n\t\t\t\ttable.alt tbody tr td:first-child {\n\t\t\t\t\tborder-left-width: 1px;\n\t\t\t\t}\n\n\t\t\ttable.alt tbody tr:first-child td {\n\t\t\t\tborder-top-width: 1px;\n\t\t\t}\n\n\t\t\ttable.alt thead {\n\t\t\t\tborder-bottom: 0;\n\t\t\t}\n\n\t\t\ttable.alt tfoot {\n\t\t\t\tborder-top: 0;\n\t\t\t}\n\n/* Button */\n\n\tinput[type=\"submit\"],\n\tinput[type=\"reset\"],\n\tinput[type=\"button\"],\n\t.button {\n\t\t-moz-appearance: none;\n\t\t-webkit-appearance: none;\n\t\t-o-appearance: none;\n\t\t-ms-appearance: none;\n\t\tappearance: none;\n\t\t-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;\n\t\t-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;\n\t\t-o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;\n\t\t-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;\n\t\ttransition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;\n\t\tbackground-color: #666;\n\t\tborder-radius: 6px;\n\t\tborder: 0;\n\t\tcolor: #ffffff;\n\t\tcursor: pointer;\n\t\tdisplay: inline-block;\n\t\tfont-weight: 400;\n\t\theight: 3em;\n\t\tline-height: 3em;\n\t\tpadding: 0 2em;\n\t\ttext-align: center;\n\t\ttext-decoration: none;\n\t\twhite-space: nowrap;\n\t}\n\n\t\tinput[type=\"submit\"]:hover,\n\t\tinput[type=\"reset\"]:hover,\n\t\tinput[type=\"button\"]:hover,\n\t\t.button:hover {\n\t\t\tbackground-color: #737373;\n\t\t}\n\n\t\tinput[type=\"submit\"]:active,\n\t\tinput[type=\"reset\"]:active,\n\t\tinput[type=\"button\"]:active,\n\t\t.button:active {\n\t\t\tbackground-color: #595959;\n\t\t}\n\n\t\tinput[type=\"submit\"].icon,\n\t\tinput[type=\"reset\"].icon,\n\t\tinput[type=\"button\"].icon,\n\t\t.button.icon {\n\t\t\tpadding-left: 1.35em;\n\t\t}\n\n\t\t\tinput[type=\"submit\"].icon:before,\n\t\t\tinput[type=\"reset\"].icon:before,\n\t\t\tinput[type=\"button\"].icon:before,\n\t\t\t.button.icon:before {\n\t\t\t\tmargin-right: 0.5em;\n\t\t\t}\n\n\t\tinput[type=\"submit\"].fit,\n\t\tinput[type=\"reset\"].fit,\n\t\tinput[type=\"button\"].fit,\n\t\t.button.fit {\n\t\t\tdisplay: block;\n\t\t\tmargin: 0 0 1em 0;\n\t\t\twidth: 100%;\n\t\t}\n\n\t\tinput[type=\"submit\"].small,\n\t\tinput[type=\"reset\"].small,\n\t\tinput[type=\"button\"].small,\n\t\t.button.small {\n\t\t\tfont-size: 0.8em;\n\t\t\theight: 2.7em;\n\t\t\tline-height: 2.7em;\n\t\t}\n\n\t\tinput[type=\"submit\"].big,\n\t\tinput[type=\"reset\"].big,\n\t\tinput[type=\"button\"].big,\n\t\t.button.big {\n\t\t\tfont-size: 1.25em;\n\t\t\theight: 2.7em;\n\t\t\tline-height: 2.7em;\n\t\t}\n\n\t\tinput[type=\"submit\"].alt,\n\t\tinput[type=\"reset\"].alt,\n\t\tinput[type=\"button\"].alt,\n\t\t.button.alt {\n\t\t\tbackground-color: transparent;\n\t\t\tbox-shadow: inset 0 0 0 2px #e5e5e5;\n\t\t\tcolor: #777;\n\t\t}\n\n\t\t\tinput[type=\"submit\"].alt:hover,\n\t\t\tinput[type=\"reset\"].alt:hover,\n\t\t\tinput[type=\"button\"].alt:hover,\n\t\t\t.button.alt:hover {\n\t\t\t\tbackground-color: #f8f8f8;\n\t\t\t}\n\n\t\t\tinput[type=\"submit\"].alt:active,\n\t\t\tinput[type=\"reset\"].alt:active,\n\t\t\tinput[type=\"button\"].alt:active,\n\t\t\t.button.alt:active {\n\t\t\t\tbackground-color: #f0f0f0;\n\t\t\t}\n\n\t\t\tinput[type=\"submit\"].alt.icon:before,\n\t\t\tinput[type=\"reset\"].alt.icon:before,\n\t\t\tinput[type=\"button\"].alt.icon:before,\n\t\t\t.button.alt.icon:before {\n\t\t\t\tcolor: #999;\n\t\t\t}\n\n\t\tinput[type=\"submit\"].special,\n\t\tinput[type=\"reset\"].special,\n\t\tinput[type=\"button\"].special,\n\t\t.button.special {\n\t\t\tbackground-color: #e89980;\n\t\t\tcolor: #ffffff !important;\n\t\t}\n\n\t\t\tinput[type=\"submit\"].special:hover,\n\t\t\tinput[type=\"reset\"].special:hover,\n\t\t\tinput[type=\"button\"].special:hover,\n\t\t\t.button.special:hover {\n\t\t\t\tbackground-color: #ecaa96;\n\t\t\t}\n\n\t\t\tinput[type=\"submit\"].special:active,\n\t\t\tinput[type=\"reset\"].special:active,\n\t\t\tinput[type=\"button\"].special:active,\n\t\t\t.button.special:active {\n\t\t\t\tbackground-color: #e4886a;\n\t\t\t}\n\n\t\tinput[type=\"submit\"].disabled, input[type=\"submit\"]:disabled,\n\t\tinput[type=\"reset\"].disabled,\n\t\tinput[type=\"reset\"]:disabled,\n\t\tinput[type=\"button\"].disabled,\n\t\tinput[type=\"button\"]:disabled,\n\t\t.button.disabled,\n\t\t.button:disabled {\n\t\t\tbackground-color: #777 !important;\n\t\t\tbox-shadow: inset 0 -0.15em 0 0 rgba(0, 0, 0, 0.15);\n\t\t\tcolor: #f5f5f5 !important;\n\t\t\tcursor: default;\n\t\t\topacity: 0.25;\n\t\t}\n\n/* Header */\n\n\t#skel-layers-wrapper {\n\t\tpadding-top: 3em;\n\t}\n\n\tbody.landing #skel-layers-wrapper, body #skel-layers-wrapper {\n\t\tpadding-top: 0;\n\t}\n\t@-moz-keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }\n\t@-webkit-keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }\n\t@-o-keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }\n\t@-ms-keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }\n\t@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }\n\n\t#header {\n\t\tbackground: #444;\n\t\tcolor: #bbb;\n\t\tcursor: default;\n\t\theight: 3.25em;\n\t\tleft: 0;\n\t\tline-height: 3.25em;\n\t\tposition: fixed;\n\t\ttop: 0;\n\t\twidth: 100%;\n\t\tz-index: 10000;\n\t}\n\n\t\t#header h1 {\n\t\t\tcolor: inherit;\n\t\t\theight: inherit;\n\t\t\tleft: 1.25em;\n\t\t\tline-height: inherit;\n\t\t\tmargin: 0;\n\t\t\tpadding: 0;\n\t\t\tposition: absolute;\n\t\t\ttop: 0;\n\t\t}\n\n\t\t\t#header h1 a {\n\t\t\t\tcolor: #fff;\n\t\t\t\tfont-weight: 400;\n\t\t\t\tborder: 0;\n\t\t\t}\n\n\t\t#header nav {\n\t\t\theight: inherit;\n\t\t\tline-height: inherit;\n\t\t\tposition: absolute;\n\t\t\tright: 0.75em;\n\t\t\ttop: 0;\n\t\t\tvertical-align: middle;\n\t\t}\n\n\t\t\t#header nav > ul {\n\t\t\t\tlist-style: none;\n\t\t\t\tmargin: 0;\n\t\t\t\tpadding-left: 0;\n\t\t\t}\n\n\t\t\t\t#header nav > ul > li {\n\t\t\t\t\tdisplay: inline-block;\n\t\t\t\t\tpadding-left: 0;\n\t\t\t\t}\n\n\t\t\t\t\t#header nav > ul > li > ul {\n\t\t\t\t\t\tdisplay: none;\n\t\t\t\t\t}\n\n\t\t\t\t\t#header nav > ul > li a {\n\t\t\t\t\t\tdisplay: inline-block;\n\t\t\t\t\t\theight: 2em;\n\t\t\t\t\t\tline-height: 1.95em;\n\t\t\t\t\t\tpadding: 0 1em;\n\t\t\t\t\t\tborder-radius: 6px;\n\t\t\t\t\t}\n\n\t\t\t\t\t#header nav > ul > li a:not(.button) {\n\t\t\t\t\t\tcolor: #fff;\n\t\t\t\t\t\tdisplay: inline-block;\n\t\t\t\t\t\ttext-decoration: none;\n\t\t\t\t\t\tborder: 0;\n\t\t\t\t\t}\n\n\t\t\t\t\t\t#header nav > ul > li a:not(.button).icon:before {\n\t\t\t\t\t\t\tcolor: #999;\n\t\t\t\t\t\t\tmargin-right: 0.5em;\n\t\t\t\t\t\t}\n\n\t\t\t\t\t#header nav > ul > li:first-child {\n\t\t\t\t\t\tmargin-left: 0;\n\t\t\t\t\t}\n\n\t\t\t\t\t#header nav > ul > li.active a:not(.button) {\n\t\t\t\t\t\tbackground-color: rgba(153, 153, 153, 0.25);\n\t\t\t\t\t}\n\n\t\t\t\t\t#header nav > ul > li .button {\n\t\t\t\t\t\tmargin: 0 0 0 0.5em;\n\t\t\t\t\t\tposition: relative;\n\t\t\t\t\t}\n\n\t\t#header input[type=\"submit\"],\n\t\t#header input[type=\"reset\"],\n\t\t#header input[type=\"button\"],\n\t\t#header .button {\n\t\t\tbackground-color: transparent;\n\t\t\tbox-shadow: inset 0 0 0 2px #999;\n\t\t\tcolor: #fff;\n\t\t}\n\n\t\t\t#header input[type=\"submit\"]:hover,\n\t\t\t#header input[type=\"reset\"]:hover,\n\t\t\t#header input[type=\"button\"]:hover,\n\t\t\t#header .button:hover {\n\t\t\t\tbackground-color: rgba(153, 153, 153, 0.25);\n\t\t\t}\n\n\t\t\t#header input[type=\"submit\"]:active,\n\t\t\t#header input[type=\"reset\"]:active,\n\t\t\t#header input[type=\"button\"]:active,\n\t\t\t#header .button:active {\n\t\t\t\tbackground-color: rgba(153, 153, 153, 0.5);\n\t\t\t}\n\n\t\t#header .container {\n\t\t\tposition: relative;\n\t\t}\n\n\t\t\t#header .container h1 {\n\t\t\t\tleft: 0;\n\t\t\t}\n\n\t\t\t#header .container nav {\n\t\t\t\tright: 0;\n\t\t\t}\n\n\t\t#header.reveal {\n\t\t\t-moz-animation: reveal-header 0.5s;\n\t\t\t-webkit-animation: reveal-header 0.5s;\n\t\t\t-o-animation: reveal-header 0.5s;\n\t\t\t-ms-animation: reveal-header 0.5s;\n\t\t\tanimation: reveal-header 0.5s;\n\t\t}\n\n\t\t#header.alt {\n\t\t\t-moz-animation: none;\n\t\t\t-webkit-animation: none;\n\t\t\t-o-animation: none;\n\t\t\t-ms-animation: none;\n\t\t\tanimation: none;\n\t\t\tbackground: none;\n\t\t\tcolor: rgba(255, 255, 255, 0.75);\n\t\t\tposition: absolute;\n\t\t}\n\n\t\t\t#header.alt nav > ul > li a:not(.button).icon:before {\n\t\t\t\tcolor: rgba(255, 255, 255, 0.75);\n\t\t\t}\n\n\t\t\t#header.alt nav > ul > li.active a:not(.button) {\n\t\t\t\tbackground-color: rgba(255, 255, 255, 0.2);\n\t\t\t}\n\n\t\t\t#header.alt input[type=\"submit\"],\n\t\t\t#header.alt input[type=\"reset\"],\n\t\t\t#header.alt input[type=\"button\"],\n\t\t\t#header.alt .button {\n\t\t\t\tbox-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);\n\t\t\t}\n\n\t\t\t\t#header.alt input[type=\"submit\"]:hover,\n\t\t\t\t#header.alt input[type=\"reset\"]:hover,\n\t\t\t\t#header.alt input[type=\"button\"]:hover,\n\t\t\t\t#header.alt .button:hover {\n\t\t\t\t\tbackground-color: rgba(255, 255, 255, 0.1);\n\t\t\t\t}\n\n\t\t\t\t#header.alt input[type=\"submit\"]:active,\n\t\t\t\t#header.alt input[type=\"reset\"]:active,\n\t\t\t\t#header.alt input[type=\"button\"]:active,\n\t\t\t\t#header.alt .button:active {\n\t\t\t\t\tbackground-color: rgba(255, 255, 255, 0.2);\n\t\t\t\t}\n\n\t.dropotron {\n\t\tbackground: #fff;\n\t\tborder-radius: 6px;\n\t\tbox-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.065), inset 0 -1px 0 0 #fff, inset 0 0 0 1px rgba(229, 229, 229, 0.5);\n\t\tlist-style: none;\n\t\tmargin: calc(-0.5em + 1px) 0 0 1px;\n\t\tpadding: 0.5em 0;\n\t\twidth: 11em;\n\t}\n\n\t\t.dropotron li {\n\t\t\tpadding: 0;\n\t\t}\n\n\t\t\t.dropotron li a, .dropotron li span {\n\t\t\t\t-moz-transition: none;\n\t\t\t\t-webkit-transition: none;\n\t\t\t\t-o-transition: none;\n\t\t\t\t-ms-transition: none;\n\t\t\t\ttransition: none;\n\t\t\t\tborder: 0;\n\t\t\t\tborder-top: solid 1px #f2f2f2;\n\t\t\t\tcolor: inherit;\n\t\t\t\tdisplay: block;\n\t\t\t\tpadding: 0.15em 1em;\n\t\t\t}\n\n\t\t\t.dropotron li:first-child > a, .dropotron li:first-child > span {\n\t\t\t\tborder-top: 0;\n\t\t\t}\n\n\t\t\t.dropotron li.active > a, .dropotron li.active > span, .dropotron li:hover > a, .dropotron li:hover > span {\n\t\t\t\tbackground: #e89980;\n\t\t\t\tcolor: #ffffff;\n\t\t\t}\n\n\t\t.dropotron.level-0 {\n\t\t\tfont-size: 0.9em;\n\t\t\tmargin: 1em 0 0 0;\n\t\t}\n\n\t\t\t.dropotron.level-0:before {\n\t\t\t\t-moz-transform: rotate(45deg);\n\t\t\t\t-webkit-transform: rotate(45deg);\n\t\t\t\t-o-transform: rotate(45deg);\n\t\t\t\t-ms-transform: rotate(45deg);\n\t\t\t\ttransform: rotate(45deg);\n\t\t\t\tbackground: #fff;\n\t\t\t\tborder: solid 1px rgba(229, 229, 229, 0.5);\n\t\t\t\tborder-bottom: 0;\n\t\t\t\tborder-right: 0;\n\t\t\t\tbox-shadow: -0.25em -0.125em 0.125em 0 rgba(0, 0, 0, 0.015);\n\t\t\t\tcontent: '';\n\t\t\t\tdisplay: block;\n\t\t\t\theight: 0.75em;\n\t\t\t\tposition: absolute;\n\t\t\t\tright: 1.25em;\n\t\t\t\ttop: -0.375em;\n\t\t\t\twidth: 0.75em;\n\t\t\t\tz-index: 0;\n\t\t\t}\n\n/* Banner */\n\n\t#banner {\n\t\tbackground-attachment: scroll,\t\t\t\t\t\t\tfixed;\n\t\tbackground-color: #666;\n\t\tbackground-image: url(\"images/overlay.png\"), url(\"../images/banner.jpg\");\n\t\tbackground-position: top left,\t\t\t\t\t\tcenter center;\n\t\tbackground-repeat: repeat,\t\t\t\t\t\t\tno-repeat;\n\t\tbackground-size: auto,\t\t\t\t\t\t\tcover;\n\t\tcolor: #fff;\n\t\tpadding: 12em 0 20em 0;\n\t\ttext-align: center;\n\t}\n\n\t\t#banner :last-child {\n\t\t\tmargin-bottom: 0;\n\t\t}\n\n\t\t#banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {\n\t\t\tcolor: #fff;\n\t\t}\n\n\t\t#banner h2 {\n\t\t\tfont-size: 3.5em;\n\t\t\tline-height: 1em;\n\t\t\tmargin: 0 0 0.5em 0;\n\t\t\tpadding: 0;\n\t\t}\n\n\t\t#banner p {\n\t\t\tfont-size: 1.25em;\n\t\t\tmargin-bottom: 1.75em;\n\t\t}\n\n\t\t#banner input[type=\"submit\"],\n\t\t#banner input[type=\"reset\"],\n\t\t#banner input[type=\"button\"],\n\t\t#banner .button {\n\t\t\tbackground-color: transparent;\n\t\t\tbox-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.5);\n\t\t\tcolor: #fff;\n\t\t\tmin-width: 12em;\n\t\t}\n\n\t\t\t#banner input[type=\"submit\"]:hover,\n\t\t\t#banner input[type=\"reset\"]:hover,\n\t\t\t#banner input[type=\"button\"]:hover,\n\t\t\t#banner .button:hover {\n\t\t\t\tbackground-color: rgba(255, 255, 255, 0.1);\n\t\t\t}\n\n\t\t\t#banner input[type=\"submit\"]:active,\n\t\t\t#banner input[type=\"reset\"]:active,\n\t\t\t#banner input[type=\"button\"]:active,\n\t\t\t#banner .button:active {\n\t\t\t\tbackground-color: rgba(255, 255, 255, 0.2);\n\t\t\t}\n\n\t\t\t#banner input[type=\"submit\"].special,\n\t\t\t#banner input[type=\"reset\"].special,\n\t\t\t#banner input[type=\"button\"].special,\n\t\t\t#banner .button.special {\n\t\t\t\tbackground: #fff;\n\t\t\t\tcolor: #666 !important;\n\t\t\t}\n\n/* Main */\n\n\t#main {\n\t\tpadding: 4em 0;\n\t}\n\n\t\t#main > header {\n\t\t\ttext-align: center;\n\t\t\tmargin: 0 0 3em 0;\n\t\t}\n\n\t\t\t#main > header h2 {\n\t\t\t\tfont-size: 2.75em;\n\t\t\t\tmargin: 0;\n\t\t\t}\n\n\t\t\t#main > header p {\n\t\t\t\tborder-top: solid 2px #e5e5e5;\n\t\t\t\tcolor: #777;\n\t\t\t\tdisplay: inline-block;\n\t\t\t\tfont-style: normal;\n\t\t\t\tmargin: 1em 0 0 0;\n\t\t\t\tpadding: 1em 0 1.25em 0;\n\t\t\t}\n\tbody #main {\n\t\tmargin-top: -26em;\n\t}\n\n\tbody.landing #main {\n\t\tmargin-top: -14em;\n\t}\n\n/* Footer */\n\n\t#footer {\n\t\tbackground: #f0f0f0;\n\t\tpadding: 4em 0 6em 0;\n\t\ttext-align: center;\n\t}\n\n\t\t#footer .icons a {\n\t\t\t-moz-transition: opacity 0.2s ease-in-out;\n\t\t\t-webkit-transition: opacity 0.2s ease-in-out;\n\t\t\t-o-transition: opacity 0.2s ease-in-out;\n\t\t\t-ms-transition: opacity 0.2s ease-in-out;\n\t\t\ttransition: opacity 0.2s ease-in-out;\n\t\t\topacity: 0.35;\n\t\t}\n\n\t\t\t#footer .icons a:hover {\n\t\t\t\topacity: 0.75;\n\t\t\t}\n\n\t\t#footer .copyright {\n\t\t\tcolor: #999;\n\t\t\tfont-size: 0.9em;\n\t\t\tline-height: 1em;\n\t\t\tmargin: 2em 0 0 0;\n\t\t\tpadding: 0;\n\t\t\ttext-align: center;\n\t\t}\n\n\t\t\t#footer .copyright a {\n\t\t\t\tcolor: inherit;\n\t\t\t}\n\n\t\t\t#footer .copyright li {\n\t\t\t\tborder-left: solid 1px #dddddd;\n\t\t\t\tdisplay: inline-block;\n\t\t\t\tlist-style: none;\n\t\t\t\tmargin-left: 1em;\n\t\t\t\tpadding-left: 1em;\n\t\t\t}\n\n\t\t\t\t#footer .copyright li:first-child {\n\t\t\t\t\tborder-left: 0;\n\t\t\t\t\tmargin-left: 0;\n\t\t\t\t\tpadding-left: 0;\n\t\t\t\t}\n\n/* CTA */\n\n\t#cta {\n\t\tbackground: #e89980;\n\t\tcolor: #f9e5df;\n\t\tpadding: 3.5em 0 4em 0;\n\t\ttext-align: center;\n\t}\n\n\t\t#cta h2, #cta h3, #cta h4, #cta h5, #cta h6 {\n\t\t\tcolor: inherit;\n\t\t}\n\n\t\t#cta form {\n\t\t\tmargin: 0 auto;\n\t\t\tmax-width: 100%;\n\t\t\twidth: 25em;\n\t\t}\n\n\t\t#cta input[type=\"submit\"],\n\t\t#cta input[type=\"reset\"],\n\t\t#cta input[type=\"button\"],\n\t\t#cta .button {\n\t\t\tbox-shadow: none;\n\t\t\tbackground: #fff;\n\t\t\tcolor: #e89980;\n\t\t}\n\n\t\t#cta input[type=\"text\"],\n\t\t#cta input[type=\"password\"],\n\t\t#cta input[type=\"email\"],\n\t\t#cta select,\n\t\t#cta textarea {\n\t\t\tcolor: #ffffff;\n\t\t\tbackground: rgba(255, 255, 255, 0.15);\n\t\t\tborder: 0;\n\t\t}\n\n\t\t\t#cta input[type=\"text\"]:focus,\n\t\t\t#cta input[type=\"password\"]:focus,\n\t\t\t#cta input[type=\"email\"]:focus,\n\t\t\t#cta select:focus,\n\t\t\t#cta textarea:focus {\n\t\t\t\tbox-shadow: inset 0 0 0 2px #fff;\n\t\t\t}\n\n\t\t#cta ::-webkit-input-placeholder {\n\t\t\tcolor: rgba(255, 255, 255, 0.75) !important;\n\t\t}\n\n\t\t#cta :-moz-placeholder {\n\t\t\tcolor: rgba(255, 255, 255, 0.75) !important;\n\t\t}\n\n\t\t#cta ::-moz-placeholder {\n\t\t\tcolor: rgba(255, 255, 255, 0.75) !important;\n\t\t}\n\n\t\t#cta :-ms-input-placeholder {\n\t\t\tcolor: rgba(255, 255, 255, 0.75) !important;\n\t\t}\n\n\t\t#cta .formerize-placeholder {\n\t\t\tcolor: rgba(255, 255, 255, 0.75) !important;\n\t\t}",
+			"file": "assets/css/style.css",
+			"file_size": 26807,
+			"file_write_time": 131540268696840003,
+			"settings":
+			{
+				"buffer_size": 26807,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\n---\n@import '_vars';\n@import '_mixins';\n@import 'font-awesome.min.css';\n@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic');\n\n/*\n\tAlpha by HTML5 UP\n\thtml5up.net | @n33co\n\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license)\n*/\n\n/* Basic */\n\n\tbody {\n\t\tbackground: $color-bg;\n\t}\n\n\tbody, input, select, textarea {\n\t\tcolor: $color-fg;\n\t\tfont-family: $font-family;\n\t\tfont-size: 16pt;\n\t\tfont-weight: $font-weight;\n\t\tline-height: 1.65em;\n\t\tletter-spacing: -0.015em;\n\t}\n\n\ta {\n\t\t@include vendor-property('transition', 'color #{$duration-transition} ease-in-out, border-bottom-color #{$duration-transition} ease-in-out');\n\t\tborder-bottom: dotted 1px;\n\t\tcolor: $color-accent2-bg;\n\t\ttext-decoration: none;\n\t\t\n\t\t&:hover {\n\t\t\tborder-bottom-color: transparent;\n\t\t}\n\t}\n\n\tstrong, b {\n\t\tcolor: $color-fg-bold;\n\t\tfont-weight: $font-weight-bold;\n\t}\n\t\n\tem, i {\n\t\tfont-style: italic;\n\t}\n\n\tp {\n\t\tmargin: 0 0 $size-element-margin 0;\n\t}\n\n\th1, h2, h3, h4, h5, h6 {\n\t\tcolor: $color-fg-bold;\n\t\tfont-weight: $font-weight;\n\t\tline-height: 1em;\n\t\tmargin: 0 0 ($size-element-margin * 0.25) 0;\n\t\t\n\t\ta {\n\t\t\tcolor: inherit;\n\t\t\ttext-decoration: none;\n\t\t}\n\t}\n\n\th2 {\n\t\tfont-size: 2.25em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: -0.035em;\n\t}\n\n\th3 {\n\t\tfont-size: 1.75em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: -0.025em;\n\t}\n\n\th4 {\n\t\tfont-size: 1.1em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: 0;\n\t}\n\t\n\th5 {\n\t\tfont-size: 0.9em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: 0;\n\t}\n\t\n\th6 {\n\t\tfont-size: 0.7em;\n\t\tline-height: 1.5em;\n\t\tletter-spacing: 0;\n\t}\n\n\tsub {\n\t\tfont-size: 0.8em;\n\t\tposition: relative;\n\t\ttop: 0.5em;\n\t}\n\t\n\tsup {\n\t\tfont-size: 0.8em;\n\t\tposition: relative;\n\t\ttop: -0.5em;\n\t}\n\t\n\thr {\n\t\tborder: 0;\n\t\tborder-bottom: solid 2px $color-border;\n\n\t\t// This is the *only* instance where we need to rely on margin collapse.\n\t\tmargin: $size-element-margin 0;\n\t\t\n\t\t&.major {\n\t\t\tmargin: ($size-element-margin * 1.5) 0;\n\t\t}\n\t}\n\t\n\tblockquote {\n\t\tborder-left: solid 4px $color-border;\n\t\tfont-style: italic;\n\t\tmargin: 0 0 $size-element-margin 0;\n\t\tpadding: 0.5em 0 0.5em 2em;\n\t}\n\t\n\tpre {\n\t\t-webkit-overflow-scrolling: touch;\n\t\tbackground: $color-border-bg;\n\t\tborder-radius: $size-border-radius;\n\t\tborder: solid 1px $color-border;\n\t\tfont-family: $font-family-fixed;\n\t\tfont-size: 0.9em;\n\t\tline-height: 1.75em;\n\t\tmargin: 0 0 $size-element-margin 0;\n\t\toverflow-x: auto;\n\t\tpadding: 1em 1.5em;\n\t}\n\n\tcode {\n\t\tbackground: $color-border-bg;\n\t\tborder-radius: $size-border-radius;\n\t\tborder: solid 1px $color-border;\n\t\tfont-family: $font-family-fixed;\n\t\tfont-size: 0.9em;\n\t\tmargin: 0 0.25em;\n\t\tpadding: 0.25em 0.65em;\n\t}\n\n\t.align-left {\n\t\ttext-align: left;\n\t}\n\t\n\t.align-center {\n\t\ttext-align: center;\n\t}\n\t\n\t.align-right {\n\t\ttext-align: right;\n\t}\n\n/* Section/Article */\n\n\tsection, article {\n\t\t&.special {\n\t\t\ttext-align: center;\n\t\t}\n\t}\n\n\theader {\n\t\tp {\n\t\t\tcolor: $color-fg-light;\n\t\t\tposition: relative;\n\t\t\tmargin: 0 0 ($size-element-margin * 0.75) 0;\n\t\t\tfont-style: italic;\n\t\t}\n\t\t\n\t\th2 + p {\n\t\t\tfont-size: 1.25em;\n\t\t\tmargin-top: -1em;\n\t\t\tline-height: 1.5em;\n\t\t}\n\t\t\n\t\th3 + p {\n\t\t\tfont-size: 1.1em;\n\t\t\tmargin-top: -0.85em;\n\t\t\tline-height: 1.5em;\n\t\t}\n\t\t\n\t\th4 + p,\n\t\th5 + p,\n\t\th6 + p {\n\t\t\tfont-size: 0.8em;\n\t\t\tmargin-top: -0.5em;\n\t\t\tline-height: 1.5em;\n\t\t}\n\t\t\n\t\t&.major {\n\t\t\tpadding: 1em 0;\n\t\t\ttext-align: center;\n\t\t\t\n\t\t\th2 {\n\t\t\t\tmargin: 0;\n\t\t\t}\n\t\t\t\n\t\t\tp {\n\t\t\t\tdisplay: inline-block;\n\t\t\t\tborder-top: solid 2px $color-border;\n\t\t\t\tcolor: $color-fg;\n\t\t\t\tmargin: 1.5em 0 0 0;\n\t\t\t\tpadding: 1.5em 0 0 0;\n\t\t\t\tfont-style: normal;\n\t\t\t}\n\t\t}\n\t}\n\t\n\tfooter {\n\t}\n\t\n/* Form */\n\n\tform {\n\t\tmargin: 0 0 $size-element-margin 0;\n\t}\n\n\tlabel {\n\t\tcolor: $color-fg-bold;\n\t\tdisplay: block;\n\t\tfont-size: 0.9em;\n\t\tfont-weight: $font-weight;\n\t\tmargin: 0 0 ($size-element-margin * 0.5) 0;\n\t}\n\n\tinput[type=\"text\"],\n\tinput[type=\"password\"],\n\tinput[type=\"email\"],\n\tselect,\n\ttextarea {\n\t\t@include vendor-property('appearance', 'none');\n\t\tbackground: $color-border-bg;\n\t\tborder-radius: $size-border-radius;\n\t\tborder: solid 1px $color-border;\n\t\tcolor: inherit;\n\t\tdisplay: block;\n\t\toutline: 0;\n\t\tpadding: 0 1em;\n\t\ttext-decoration: none;\n\t\twidth: 100%;\n\n\t\t&:invalid {\n\t\t\tbox-shadow: none;\n\t\t}\n\t\t\n\t\t&:focus {\n\t\t\tborder-color: $color-accent2-bg;\n\t\t\tbox-shadow: 0 0 0 2px $color-accent2-bg;\n\t\t}\n\t}\n\n\t.select-wrapper {\n\t\t@include icon;\n\t\tdisplay: block;\n\t\tposition: relative;\n\t\t\n\t\t&:before {\n\t\t\tcolor: $color-border;\n\t\t\tcontent: '\\f078';\n\t\t\tdisplay: block;\n\t\t\theight: $size-element-height;\n\t\t\tline-height: $size-element-height;\n\t\t\tpointer-events: none;\n\t\t\tposition: absolute;\n\t\t\tright: 0;\n\t\t\ttext-align: center;\n\t\t\ttop: 0;\n\t\t\twidth: $size-element-height;\n\t\t}\n\n\t\tselect::-ms-expand {\n\t\t\tdisplay: none;\n\t\t}\n\t}\n\n\tinput[type=\"text\"],\n\tinput[type=\"password\"],\n\tinput[type=\"email\"],\n\tselect {\n\t\theight: $size-element-height;\n\t}\n\t\n\ttextarea {\n\t\tpadding: 0.75em 1em;\n\t}\n\n\tinput[type=\"checkbox\"],\n\tinput[type=\"radio\"], {\n\t\t@include vendor-property('appearance', 'none');\n\t\tdisplay: block;\n\t\tfloat: left;\n\t\tmargin-right: -2em;\n\t\topacity: 0;\n\t\twidth: 1em;\n\t\tz-index: -1;\n\t\t\n\t\t& + label {\n\t\t\t@include icon;\n\t\t\tcolor: $color-fg;\n\t\t\tcursor: pointer;\n\t\t\tdisplay: inline-block;\n\t\t\tfont-size: 1em;\n\t\t\tfont-weight: $font-weight;\n\t\t\tpadding-left: ($size-element-height * 0.6) + 0.75em;\n\t\t\tpadding-right: 0.75em;\n\t\t\tposition: relative;\n\t\t\t\n\t\t\t&:before {\n\t\t\t\tbackground: $color-border-bg;\n\t\t\t\tborder-radius: $size-border-radius;\n\t\t\t\tborder: solid 1px $color-border;\n\t\t\t\tcontent: '';\n\t\t\t\tdisplay: inline-block;\n\t\t\t\theight: ($size-element-height * 0.6);\n\t\t\t\tleft: 0;\n\t\t\t\tline-height: ($size-element-height * 0.575);\n\t\t\t\tposition: absolute;\n\t\t\t\ttext-align: center;\n\t\t\t\ttop: 0;\n\t\t\t\twidth: ($size-element-height * 0.6);\n\t\t\t}\n\t\t}\n\t\t\n\t\t&:checked + label {\n\t\t\t&:before {\n\t\t\t\tbackground: $color-accent1-bg;\n\t\t\t\tborder-color: $color-accent1-bg;\n\t\t\t\tcolor: $color-accent2-fg-bold;\n\t\t\t\tcontent: '\\f00c';\n\t\t\t}\n\t\t}\n\n\t\t&:focus + label {\n\t\t\t&:before {\n\t\t\t\tborder-color: $color-accent2-bg;\t\t\t\t\n\t\t\t\tbox-shadow: 0 0 0 1px $color-accent2-bg;\n\t\t\t}\n\t\t}\n\t}\n\n\tinput[type=\"checkbox\"] {\n\t\t& + label {\n\t\t\t&:before {\n\t\t\t\tborder-radius: $size-border-radius;\n\t\t\t}\n\t\t}\n\t}\n\n\tinput[type=\"radio\"] {\n\t\t& + label {\n\t\t\t&:before {\n\t\t\t\tborder-radius: 100%;\n\t\t\t}\n\t\t}\n\t}\n\n\t::-webkit-input-placeholder {\n\t\tcolor: $color-fg-light !important;\n\t\topacity: 1.0;\n\t}\n\n\t:-moz-placeholder {\n\t\tcolor: $color-fg-light !important;\n\t\topacity: 1.0;\n\t}\n\n\t::-moz-placeholder {\n\t\tcolor: $color-fg-light !important;\n\t\topacity: 1.0;\n\t}\n\n\t:-ms-input-placeholder {  \n\t\tcolor: $color-fg-light !important;\n\t\topacity: 1.0;\n\t}\n\n\t.formerize-placeholder {  \n\t\tcolor: $color-fg-light !important;\n\t\topacity: 1.0;\n\t}\n\n/* Box */\n\n\t$box-padding: 3em;\n\n\t.box {\n\t\tbackground: #fff;\n\t\tborder-radius: $size-border-radius;\n\t\tbox-shadow: 0 2px 0 0 $color-border;\n\t\tmargin: 0 0 $size-element-margin 0;\n\t\tpadding: $box-padding;\n\t\t\n\t\t> :last-child {\n\t\t\tmargin-bottom: 0;\n\t\t}\n\n\t\t&.alt {\n\t\t\tbackground: none !important;\n\t\t\tborder-radius: 0 !important;\n\t\t\tbox-shadow: none !important;\n\t\t\tmargin: 0 0 $size-element-margin 0;\n\t\t\tpadding: 0 !important;\n\t\t}\n\t\t\n\t\t&.features {\n\t\t\t.features-row {\n\t\t\t\tborder-top: solid 2px $color-border;\n\t\t\t\tposition: relative;\n\n\t\t\t\t&:after {\n\t\t\t\t\tclear: both;\n\t\t\t\t\tcontent: '';\n\t\t\t\t\tdisplay: block;\n\t\t\t\t}\n\t\t\t\t\n\t\t\t\tsection {\n\t\t\t\t\tfloat: left;\n\t\t\t\t\tpadding: $box-padding;\n\t\t\t\t\twidth: 50%;\n\t\t\t\t\t\n\t\t\t\t\t:last-child {\n\t\t\t\t\t\tmargin-bottom: 0;\n\t\t\t\t\t}\n\n\t\t\t\t\t&:nth-child(2n) {\n\t\t\t\t\t\t&:before {\n\t\t\t\t\t\t\tbackground: $color-border;\n\t\t\t\t\t\t\tcontent: '';\n\t\t\t\t\t\t\tdisplay: block;\n\t\t\t\t\t\t\theight: 100%;\n\t\t\t\t\t\t\tmargin-left: -3em;\n\t\t\t\t\t\t\tposition: absolute;\n\t\t\t\t\t\t\ttop: 0;\n\t\t\t\t\t\t\twidth: 2px;\n\t\t\t\t\t\t}\n\t\t\t\t\t\t\n\t\t\t\t\t\tpadding-right: 0;\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\t&:nth-child(2n-1) {\n\t\t\t\t\t\tpadding-left: 0;\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\t&:first-child {\n\t\t\t\t\tborder-top: 0;\n\t\t\t\t\t\n\t\t\t\t\tsection {\n\t\t\t\t\t\tpadding-top: 0;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t\n\t\t\t\t&:last-child {\n\t\t\t\t\tpadding-bottom: 0;\n\n\t\t\t\t\tsection {\n\t\t\t\t\t\tpadding-bottom: 0;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t\t\n\t\t&.special {\n\t\t\ttext-align: center;\n\t\t}\n\n\t\t.image {\n\t\t\t&.featured {\n\t\t\t\tborder-radius: 0;\n\t\t\t\tdisplay: block;\n\t\t\t\tmargin: $box-padding 0 $box-padding ($box-padding * -1);\n\t\t\t\tposition: relative;\n\t\t\t\twidth: calc(100% + #{$box-padding * 2});\n\t\t\t\t\n\t\t\t\timg {\n\t\t\t\t\tborder-radius: 0;\n\t\t\t\t\tdisplay: block;\n\t\t\t\t\twidth: 100%;\n\t\t\t\t}\n\t\t\t\n\t\t\t\t&:first-child {\n\t\t\t\t\tborder-radius: $size-border-radius $size-border-radius 0 0;\n\t\t\t\t\tmargin-bottom: $box-padding;\n\t\t\t\t\tmargin-top: $box-padding * -1;\n\t\t\t\t\t\n\t\t\t\t\timg {\n\t\t\t\t\t\tborder-radius: $size-border-radius $size-border-radius 0 0;\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\t&:last-child {\n\t\t\t\t\tborder-radius: 0 0 $size-border-radius $size-border-radius;\n\t\t\t\t\tmargin-bottom: $box-padding * -1;\n\t\t\t\t\tmargin-top: $box-padding;\n\t\t\t\t\t\n\t\t\t\t\timg {\n\t\t\t\t\t\tborder-radius: 0 0 $size-border-radius $size-border-radius;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n\t\n/* Icon */\n\n\t.icon {\n\t\t@include icon;\n\t\tborder-bottom: none;\n\t\tposition: relative;\n\n\t\t> .label {\n\t\t\tdisplay: none;\n\t\t}\n\t\t\n\t\t&.major {\n\t\t\tbackground: $color-accent1-bg;\n\t\t\tborder-radius: 100%;\n\t\t\tcolor: $color-accent1-fg-bold;\n\t\t\tcursor: default;\n\t\t\tdisplay: inline-block;\n\t\t\theight: 5.5em;\n\t\t\tline-height: 5.5em;\n\t\t\tmargin: 0 0 $size-element-margin 0;\n\t\t\twidth: 5.5em;\n\t\t\t\n\t\t\t&:before {\n\t\t\t\tfont-size: 2.5em;\n\t\t\t}\n\t\t\t\n\t\t\t&.accent1 {\n\t\t\t\tbackground: $color-accent1-bg;\n\t\t\t\tcolor: $color-accent1-fg-bold;\n\t\t\t}\n\t\t\t\n\t\t\t&.accent2 {\n\t\t\t\tbackground: $color-accent2-bg;\n\t\t\t\tcolor: $color-accent2-fg-bold;\n\t\t\t}\n\t\t\t\n\t\t\t&.accent3 {\n\t\t\t\tbackground: $color-accent3-bg;\n\t\t\t\tcolor: $color-accent3-fg-bold;\n\t\t\t}\n\t\t\t\n\t\t\t&.accent4 {\n\t\t\t\tbackground: $color-accent4-bg;\n\t\t\t\tcolor: $color-accent4-fg-bold;\n\t\t\t}\n\t\t\t\n\t\t\t&.accent5 {\n\t\t\t\tbackground: $color-accent5-bg;\n\t\t\t\tcolor: $color-accent5-fg-bold;\n\t\t\t}\n\t\t}\n\t}\n\n/* Image */\n\n\t.image {\n\t\tborder-radius: $size-border-radius;\n\t\tborder: 0;\n\t\tdisplay: inline-block;\n\t\tposition: relative;\n\t\t\n\t\timg {\n\t\t\tborder-radius: $size-border-radius;\n\t\t\tdisplay: block;\n\t\t}\n\t\t\n\t\t&.left {\n\t\t\tfloat: left;\n\t\t\tpadding: 0 1.5em 1em 0;\n\t\t\ttop: 0.25em;\n\t\t}\n\t\t\n\t\t&.right {\n\t\t\tfloat: right;\n\t\t\tpadding: 0 0 1em 1.5em;\n\t\t\ttop: 0.25em;\n\t\t}\n\t\t\n\t\t&.fit {\n\t\t\tdisplay: block;\n\t\t\tmargin: 0 0 $size-element-margin 0;\n\t\t\twidth: 100%;\n\t\t\t\n\t\t\timg {\n\t\t\t\tdisplay: block;\n\t\t\t\twidth: 100%;\n\t\t\t}\n\t\t}\n\t}\n\n/* List */\n\n\tol {\n\t\tlist-style: decimal;\n\t\tmargin: 0 0 $size-element-margin 0;\n\t\tpadding-left: 1.25em;\n\n\t\tli {\n\t\t\tpadding-left: 0.25em;\n\t\t}\n\t}\n\n\tul {\n\t\tlist-style: disc;\n\t\tmargin: 0 0 $size-element-margin 0;\n\t\tpadding-left: 1em;\n\n\t\tli {\n\t\t\tpadding-left: 0.5em;\n\t\t}\n\t\t\n\t\t&.alt {\n\t\t\tlist-style: none;\n\t\t\tpadding-left: 0;\n\t\t\t\n\t\t\tli {\n\t\t\t\tborder-top: solid 1px $color-border;\n\t\t\t\tpadding: 0.5em 0;\n\t\t\t\t\n\t\t\t\t&:first-child {\n\t\t\t\t\tborder-top: 0;\n\t\t\t\t\tpadding-top: 0;\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t\t\n\t\t&.icons {\n\t\t\tcursor: default;\n\t\t\tlist-style: none;\n\t\t\tpadding-left: 0;\n\t\t\t\n\t\t\tli {\n\t\t\t\tdisplay: inline-block;\n\t\t\t\tpadding: 0 1.25em 0 0;\n\t\t\t\t\n\t\t\t\t&:last-child {\n\t\t\t\t\tpadding-right: 0;\n\t\t\t\t}\n\t\t\t\t\n\t\t\t\t.icon {\n\t\t\t\t\tcolor: inherit;\n\t\t\t\t\t\n\t\t\t\t\t&:before {\n\t\t\t\t\t\tfont-size: 1.75em;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t\t\n\t\t&.actions {\n\t\t\tcursor: default;\n\t\t\tlist-style: none;\n\t\t\tpadding-left: 0;\n\t\t\t\n\t\t\tli {\n\t\t\t\tdisplay: inline-block;\n\t\t\t\tpadding: 0 ($size-element-margin * 0.5) 0 0;\n\t\t\t\tvertical-align: middle;\n\t\t\t\n\t\t\t\t&:last-child {\n\t\t\t\t\tpadding-right: 0;\n\t\t\t\t}\n\t\t\t}\n\t\t\t\n\t\t\t&.small {\n\t\t\t\tli {\n\t\t\t\t\tpadding: 0 ($size-element-margin * 0.25) 0 0;\n\t\t\t\t}\n\t\t\t}\n\t\t\t\n\t\t\t&.vertical {\n\t\t\t\tli {\n\t\t\t\t\tdisplay: block;\n\t\t\t\t\tpadding: ($size-element-margin * 0.5) 0 0 0;\n\t\t\t\t\t\n\t\t\t\t\t&:first-child {\n\t\t\t\t\t\tpadding-top: 0;\n\t\t\t\t\t}\n\n\t\t\t\t\t> * {\n\t\t\t\t\t\tmargin-bottom: 0;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t\n\t\t\t\t&.small {\n\t\t\t\t\tli {\n\t\t\t\t\t\tpadding: ($size-element-margin * 0.25) 0 0 0;\n\n\t\t\t\t\t\t&:first-child {\n\t\t\t\t\t\t\tpadding-top: 0;\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\t\t\t\n\t\t\t&.fit {\n\t\t\t\tdisplay: table;\n\t\t\t\tmargin-left: ($size-element-margin * -0.5);\n\t\t\t\tpadding: 0;\n\t\t\t\ttable-layout: fixed;\n\t\t\t\twidth: calc(100% + #{($size-element-margin * 0.5)});\n\t\t\t\t\n\t\t\t\tli {\n\t\t\t\t\tdisplay: table-cell;\n\t\t\t\t\tpadding: 0 0 0 ($size-element-margin * 0.5);\n\t\t\t\t\t\n\t\t\t\t\t> * {\n\t\t\t\t\t\tmargin-bottom: 0;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t\n\t\t\t\t&.small {\n\t\t\t\t\tmargin-left: ($size-element-margin * -0.25);\n\t\t\t\t\twidth: calc(100% + #{($size-element-margin * 0.25)});\n\n\t\t\t\t\tli {\n\t\t\t\t\t\tpadding: 0 0 0 ($size-element-margin * 0.25);\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n\t\n\tdl {\n\t\tmargin: 0 0 $size-element-margin 0;\n\t}\n\n/* Table */\n\n\t.table-wrapper {\n\t\t-webkit-overflow-scrolling: touch;\n\t\toverflow-x: auto;\n\t}\n\n\ttable {\n\t\tmargin: 0 0 $size-element-margin 0;\n\t\twidth: 100%;\n    \t\t\n\t\ttbody {\n\t\t\ttr {\n\t\t\t\tborder: solid 1px $color-border;\n\t\t\t\tborder-left: 0;\n\t\t\t\tborder-right: 0;\n\t\t\t\t\n\t\t\t\t&:nth-child(2n + 1) {\n\t\t\t\t\tbackground-color: $color-border-bg;\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t\t\n\t\ttd {\n\t\t\tpadding: 0.75em 0.75em;\n\t\t}\n\t\t\n\t\tth {\n\t\t\tcolor: $color-fg-bold;\n\t\t\tfont-size: 0.9em;\n\t\t\tfont-weight: $font-weight;\n\t\t\tpadding: 0 0.75em 0.75em 0.75em;\n\t\t\ttext-align: left;\n\t\t}\n\t\n\t\tthead {\n\t\t\tborder-bottom: solid 2px $color-border;\n\t\t}\n\t\t\n\t\ttfoot {\n\t\t\tborder-top: solid 2px $color-border;\n\t\t}\n\n\t\t&.alt {\n\t\t\tborder-collapse: separate;\n\t\t\t\n\t\t\ttbody {\n\t\t\t\ttr {\n\t\t\t\t\ttd {\n\t\t\t\t\t\tborder: solid 1px $color-border;\n\t\t\t\t\t\tborder-left-width: 0;\n\t\t\t\t\t\tborder-top-width: 0;\n\t\t\t\t\t\t\n\t\t\t\t\t\t&:first-child {\n\t\t\t\t\t\t\tborder-left-width: 1px;\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\t&:first-child {\n\t\t\t\t\t\ttd {\n\t\t\t\t\t\t\tborder-top-width: 1px;\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\t\t\t\n\t\t\tthead {\n\t\t\t\tborder-bottom: 0;\n\t\t\t}\n\t\t\t\n\t\t\ttfoot {\n\t\t\t\tborder-top: 0;\n\t\t\t}\n\t\t}\n\t}\n\t\t\n/* Button */\n\n\tinput[type=\"submit\"],\n\tinput[type=\"reset\"],\n\tinput[type=\"button\"],\n\t.button {\n\t\t@include vendor-property('appearance', 'none');\n\t\t@include vendor-property('transition', 'background-color #{$duration-transition} ease-in-out, color #{$duration-transition} ease-in-out');\n\t\tbackground-color: $color-accent1-bg;\n\t\tborder-radius: $size-border-radius;\n\t\tborder: 0;\n\t\tcolor: $color-accent1-fg-bold;\n\t\tcursor: pointer;\n\t\tdisplay: inline-block;\n\t\tfont-weight: $font-weight-bold;\n\t\theight: $size-element-height;\n\t\tline-height: $size-element-height;\n\t\tpadding: 0 2em;\n\t\ttext-align: center;\n\t\ttext-decoration: none;\n\t\twhite-space: nowrap;\n\n\t\t&:hover {\n\t\t\tbackground-color: lighten($color-accent1-bg, 5);\n\t\t}\n\t\t\n\t\t&:active {\n\t\t\tbackground-color: darken($color-accent1-bg, 5);\n\t\t}\n\n\t\t&.icon {\n\t\t\tpadding-left: 1.35em;\n\t\t\t\n\t\t\t&:before {\n\t\t\t\tmargin-right: 0.5em;\n\t\t\t}\n\t\t}\n\n\t\t&.fit {\n\t\t\tdisplay: block;\n\t\t\tmargin: 0 0 ($size-element-margin * 0.5) 0;\n\t\t\twidth: 100%;\n\t\t}\n\t\t\n\t\t&.small {\n\t\t\tfont-size: 0.8em;\n\t\t\theight: ($size-element-height * 0.9);\n\t\t\tline-height: ($size-element-height * 0.9);\n\t\t}\n\t\t\n\t\t&.big {\n\t\t\tfont-size: 1.25em;\n\t\t\theight: ($size-element-height * 0.9);\n\t\t\tline-height: ($size-element-height * 0.9);\n\t\t}\n\n\t\t&.alt {\n\t\t\tbackground-color: transparent;\n\t\t\tbox-shadow: inset 0 0 0 2px $color-border;\n\t\t\tcolor: $color-fg;\n\n\t\t\t&:hover {\n\t\t\t\tbackground-color: $color-border-bg;\n\t\t\t}\n\t\t\t\n\t\t\t&:active {\n\t\t\t\tbackground-color: $color-border2-bg;\n\t\t\t}\n\t\t\t\n\t\t\t&.icon {\n\t\t\t\t&:before {\n\t\t\t\t\tcolor: $color-fg-light;\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t\t\n\t\t&.special {\n\t\t\tbackground-color: $color-accent2-bg;\n\t\t\tcolor: $color-accent2-fg-bold !important;\n\t\t\t\n\t\t\t&:hover {\n\t\t\t\tbackground-color: lighten($color-accent2-bg, 5);\n\t\t\t}\n\t\t\t\n\t\t\t&:active {\n\t\t\t\tbackground-color: darken($color-accent2-bg, 5);\n\t\t\t}\n\t\t}\n\t\t\n\t\t&.disabled,\n\t\t&:disabled {\n\t\t\tbackground-color: $color-fg !important;\n\t\t\tbox-shadow: inset 0 -0.15em 0 0 rgba(0,0,0,0.15);\n\t\t\tcolor: $color-bg !important;\n\t\t\tcursor: default;\n\t\t\topacity: 0.25;\n\t\t}\n\t}\n\t\n/* Header */\n\n\t#skel-layers-wrapper {\n\t\tpadding-top: 3em;\n\t}\n\t\n\tbody.landing {\n\t\t#skel-layers-wrapper {\n\t\t\tpadding-top: 0;\n\t\t}\n\t}\n\n\t@include vendor-keyframes('reveal-header') {\n\t\t0% { top: -5em; }\n\t\t100% { top: 0; }\n\t}\n\n\t#header {\n\t\tbackground: $color-header-bg;\n\t\tcolor: $color-header-fg;\n\t\tcursor: default;\n\t\theight: 3.25em;\n\t\tleft: 0;\n\t\tline-height: 3.25em;\n\t\tposition: fixed;\n\t\ttop: 0;\n\t\twidth: 100%;\n\t\tz-index: 10000;\n\t\t\n\t\th1 {\n\t\t\tcolor: inherit;\n\t\t\theight: inherit;\n\t\t\tleft: 1.25em;\n\t\t\tline-height: inherit;\n\t\t\tmargin: 0;\n\t\t\tpadding: 0;\n\t\t\tposition: absolute;\n\t\t\ttop: 0;\n\t\t\t\n\t\t\ta {\n\t\t\t\tcolor: $color-header-fg-bold;\n\t\t\t\tfont-weight: $font-weight-bold;\n\t\t\t\tborder: 0;\n\t\t\t}\n\t\t}\n\t\t\n\t\tnav {\n\t\t\theight: inherit;\n\t\t\tline-height: inherit;\n\t\t\tposition: absolute;\n\t\t\tright: 0.75em;\n\t\t\ttop: 0;\n\t\t\tvertical-align: middle;\n\n\t\t\t> ul {\n\t\t\t\tlist-style: none;\n\t\t\t\tmargin: 0;\n\t\t\t\tpadding-left: 0;\n\t\t\t\t\n\t\t\t\t> li {\n\t\t\t\t\tdisplay: inline-block;\n\t\t\t\t\tpadding-left: 0;\n\t\t\t\t\t\n\t\t\t\t\t> ul {\n\t\t\t\t\t\tdisplay: none;\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\ta {\n\t\t\t\t\t\tdisplay: inline-block;\n\t\t\t\t\t\theight: 2em;\n\t\t\t\t\t\tline-height: 1.95em;\n\t\t\t\t\t\tpadding: 0 1em;\n\t\t\t\t\t\tborder-radius: $size-border-radius;\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\ta:not(.button) {\n\t\t\t\t\t\tcolor: $color-header-fg-bold;\n\t\t\t\t\t\tdisplay: inline-block;\n\t\t\t\t\t\ttext-decoration: none;\n\t\t\t\t\t\tborder: 0;\n\t\t\t\t\t\t\n\t\t\t\t\t\t&.icon {\n\t\t\t\t\t\t\t&:before {\n\t\t\t\t\t\t\t\tcolor: $color-header-fg-light;\n\t\t\t\t\t\t\t\tmargin-right: 0.5em;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\t&:first-child {\n\t\t\t\t\t\tmargin-left: 0;\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\t&.active {\n\t\t\t\t\t\ta:not(.button) {\n\t\t\t\t\t\t\tbackground-color: transparentize($color-header-fg-light, 0.75);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\t.button {\n\t\t\t\t\t\tmargin: 0 0 0 0.5em;\n\t\t\t\t\t\tposition: relative;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\n\t\tinput[type=\"submit\"],\n\t\tinput[type=\"reset\"],\n\t\tinput[type=\"button\"],\n\t\t.button {\n\t\t\tbackground-color: transparent;\n\t\t\tbox-shadow: inset 0 0 0 2px $color-header-fg-light;\n\t\t\tcolor: $color-header-fg-bold;\n\n\t\t\t&:hover {\n\t\t\t\tbackground-color: transparentize($color-header-fg-light, 0.75);\n\t\t\t}\n\n\t\t\t&:active {\n\t\t\t\tbackground-color: transparentize($color-header-fg-light, 0.5);\n\t\t\t}\n\t\t}\n\n\t\t.container {\n\t\t\tposition: relative;\n\t\t\t\n\t\t\th1 {\n\t\t\t\tleft: 0;\n\t\t\t}\n\t\t\t\n\t\t\tnav {\n\t\t\t\tright: 0;\n\t\t\t}\n\t\t}\n\t\t\n\t\t&.reveal {\n\t\t\t@include vendor-property('animation', 'reveal-header 0.5s');\n\t\t}\n\t\t\n\t\t&.alt {\n\t\t\t@include vendor-property('animation', 'none');\n\t\t\tbackground: none;\n\t\t\tcolor: rgba(255,255,255,0.75);\n\t\t\tposition: absolute;\n\n\t\t\tnav {\n\t\t\t\t> ul {\n\t\t\t\t\t> li {\n\t\t\t\t\t\ta:not(.button) {\n\t\t\t\t\t\t\t&.icon {\n\t\t\t\t\t\t\t\t&:before {\n\t\t\t\t\t\t\t\t\tcolor: rgba(255,255,255,0.75);\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\t&.active {\n\t\t\t\t\t\t\ta:not(.button) {\n\t\t\t\t\t\t\t\tbackground-color: rgba(255,255,255,0.2);\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t}\n\n\t\t\tinput[type=\"submit\"],\n\t\t\tinput[type=\"reset\"],\n\t\t\tinput[type=\"button\"],\n\t\t\t.button {\n\t\t\t\tbox-shadow: inset 0 0 0 2px rgba(255,255,255,0.5);\n\n\t\t\t\t&:hover {\n\t\t\t\t\tbackground-color: rgba(255,255,255,0.1);\n\t\t\t\t}\n\n\t\t\t\t&:active {\n\t\t\t\t\tbackground-color: rgba(255,255,255,0.2);\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n\t\n\t.dropotron {\n\t\tbackground: #fff;\n\t\tborder-radius: $size-border-radius;\n\t\tbox-shadow: 0 2px 0 0 rgba(0,0,0,0.065), inset 0 -1px 0 0 #fff, inset 0 0 0 1px transparentize($color-border, 0.5);\n\t\tlist-style: none;\n\t\tmargin: calc(-0.5em + 1px) 0 0 1px;\n\t\tpadding: 0.5em 0;\n\t\twidth: 11em;\n\t\t\n\t\tli {\n\t\t\tpadding: 0;\n\t\t\t\n\t\t\ta, span {\n\t\t\t\t@include vendor-property('transition', 'none');\n\t\t\t\tborder: 0;\n\t\t\t\tborder-top: solid 1px #f2f2f2;\n\t\t\t\tcolor: inherit;\n\t\t\t\tdisplay: block;\n\t\t\t\tpadding: 0.15em 1em;\n\t\t\t}\n\t\t\t\n\t\t\t&:first-child {\n\t\t\t\t> a, > span {\n\t\t\t\t\tborder-top: 0;\n\t\t\t\t}\n\t\t\t}\n\t\t\t\n\t\t\t&.active,\n\t\t\t&:hover {\n\t\t\t\t> a, > span {\n\t\t\t\t\tbackground: $color-accent2-bg;\n\t\t\t\t\tcolor: $color-accent2-fg-bold;\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t\t\n\t\t&.level-0 {\n\t\t\tfont-size: 0.9em;\n\t\t\tmargin: 1em 0 0 0;\n\t\t\t\n\t\t\t&:before {\n\t\t\t\t@include vendor-property('transform', 'rotate(45deg)');\n\t\t\t\tbackground: #fff;\n\t\t\t\tborder: solid 1px transparentize($color-border, 0.5);\n\t\t\t\tborder-bottom: 0;\n\t\t\t\tborder-right: 0;\n\t\t\t\tbox-shadow: -0.25em -0.125em 0.125em 0 rgba(0,0,0,0.015);\n\t\t\t\tcontent: '';\n\t\t\t\tdisplay: block;\n\t\t\t\theight: 0.75em;\n\t\t\t\tposition: absolute;\n\t\t\t\tright: 1.25em;\n\t\t\t\ttop: -0.375em;\n\t\t\t\twidth: 0.75em;\n\t\t\t\tz-index: 0;\n\t\t\t}\n\t\t}\n\t}\n\t\n/* Banner */\n\n\t#banner {\n\t\tbackground-attachment:\tscroll,\t\t\t\t\t\t\tfixed;\n\t\tbackground-color:\t\t#666;\n\t\tbackground-image:\t\turl('images/overlay.png'),\t\turl('../images/banner.jpg');\n\t\tbackground-position:\ttop left,\t\t\t\t\t\tcenter center;\n\t\tbackground-repeat:\t\trepeat,\t\t\t\t\t\t\tno-repeat;\n\t\tbackground-size:\t\tauto,\t\t\t\t\t\t\tcover;\n\t\tcolor: #fff;\n\t\tpadding: 12em 0 20em 0;\n\t\ttext-align: center;\n\t\t\n\t\t:last-child {\n\t\t\tmargin-bottom: 0;\n\t\t}\n\t\t\n\t\th2, h3, h4, h5, h6 {\n\t\t\tcolor: #fff;\n\t\t}\n\t\t\n\t\th2 {\n\t\t\tfont-size: 3.5em;\n\t\t\tline-height: 1em;\n\t\t\tmargin: 0 0 0.5em 0;\n\t\t\tpadding: 0;\n\t\t}\n\t\t\n\t\tp {\n\t\t\tfont-size: 1.25em;\n\t\t\tmargin-bottom: 1.75em;\n\t\t}\n\n\t\tinput[type=\"submit\"],\n\t\tinput[type=\"reset\"],\n\t\tinput[type=\"button\"],\n\t\t.button {\n\t\t\tbackground-color: transparent;\n\t\t\tbox-shadow: inset 0 0 0 2px rgba(255,255,255,0.5);\n\t\t\tcolor: #fff;\n\t\t\tmin-width: 12em;\n\n\t\t\t&:hover {\n\t\t\t\tbackground-color: rgba(255,255,255,0.1);\n\t\t\t}\n\n\t\t\t&:active {\n\t\t\t\tbackground-color: rgba(255,255,255,0.2);\n\t\t\t}\n\n\t\t\t&.special {\n\t\t\t\tbackground: #fff;\n\t\t\t\tcolor: #666 !important;\n\t\t\t}\n\t\t}\n\t}\n\t\n/* Main */\n\n\t#main {\n\t\tpadding: 4em 0;\n\t\t\n\t\t> header {\n\t\t\ttext-align: center;\n\t\t\tmargin: 0 0 3em 0;\n\n\t\t\th2 {\n\t\t\t\tfont-size: 2.75em;\n\t\t\t\tmargin: 0;\n\t\t\t}\n\t\t\t\n\t\t\tp {\n\t\t\t\tborder-top: solid 2px $color-border;\n\t\t\t\tcolor: $color-fg;\n\t\t\t\tdisplay: inline-block;\n\t\t\t\tfont-style: normal;\n\t\t\t\tmargin: 1em 0 0 0;\n\t\t\t\tpadding: 1em 0 1.25em 0;\n\t\t\t}\n\t\t}\n\t}\n\t\n\tbody.landing {\n\t\t#main {\n\t\t\tmargin-top: -14em;\n\t\t}\n\t}\n\t\n/* Footer */\n\n\t#footer {\n\t\tbackground: #f0f0f0;\n\t\tpadding: 4em 0 6em 0;\n\t\ttext-align: center;\n\t\t\n\t\t.icons {\n\t\t\ta {\n\t\t\t\t@include vendor-property('transition', 'opacity #{$duration-transition} ease-in-out');\n\t\t\t\topacity: 0.35;\n\t\t\t\t\n\t\t\t\t&:hover {\n\t\t\t\t\topacity: 0.75;\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t\t\n\t\t.copyright {\n\t\t\tcolor: $color-fg-light;\n\t\t\tfont-size: 0.9em;\n\t\t\tline-height: 1em;\n\t\t\tmargin: 2em 0 0 0;\n\t\t\tpadding: 0;\n\t\t\ttext-align: center;\n\n\t\t\ta {\n\t\t\t\tcolor: inherit;\n\t\t\t}\n\t\t\t\n\t\t\tli {\n\t\t\t\tborder-left: solid 1px $color-border2;\n\t\t\t\tdisplay: inline-block;\n\t\t\t\tlist-style: none;\n\t\t\t\tmargin-left: 1em;\n\t\t\t\tpadding-left: 1em;\n\t\t\t\t\n\t\t\t\t&:first-child {\n\t\t\t\t\tborder-left: 0;\n\t\t\t\t\tmargin-left: 0;\n\t\t\t\t\tpadding-left: 0;\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\t}\n\n/* CTA */\n\n\t#cta {\n\t\tbackground: $color-accent2-bg;\n\t\tcolor: $color-accent2-fg;\n\t\tpadding: 3.5em 0 4em 0;\n\t\ttext-align: center;\n\n\t\th2, h3, h4, h5, h6 {\n\t\t\tcolor: inherit;\n\t\t}\n\t\n\t\tform {\n\t\t\tmargin: 0 auto;\n\t\t\tmax-width: 100%;\n\t\t\twidth: 25em;\n\t\t}\n\n\t\tinput[type=\"submit\"],\n\t\tinput[type=\"reset\"],\n\t\tinput[type=\"button\"],\n\t\t.button {\n\t\t\tbox-shadow: none;\n\t\t\tbackground: #fff;\n\t\t\tcolor: $color-accent2-bg;\n\t\t}\n\n\t\tinput[type=\"text\"],\n\t\tinput[type=\"password\"],\n\t\tinput[type=\"email\"],\n\t\tselect,\n\t\ttextarea {\n\t\t\tcolor: $color-accent2-fg-bold;\n\t\t\tbackground: rgba(255,255,255,0.15);\n\t\t\tborder: 0;\n\t\t\t\n\t\t\t&:focus {\n\t\t\t\tbox-shadow: inset 0 0 0 2px #fff;\n\t\t\t}\n\t\t}\n\n\t\t::-webkit-input-placeholder {\n\t\t\tcolor: rgba(255,255,255,0.75) !important;\n\t\t}\n\n\t\t:-moz-placeholder {\n\t\t\tcolor: rgba(255,255,255,0.75) !important;\n\t\t}\n\n\t\t::-moz-placeholder {\n\t\t\tcolor: rgba(255,255,255,0.75) !important;\n\t\t}\n\n\t\t:-ms-input-placeholder {  \n\t\t\tcolor: rgba(255,255,255,0.75) !important;\n\t\t}\n\n\t\t.formerize-placeholder {  \n\t\t\tcolor: rgba(255,255,255,0.75) !important;\n\t\t}\n\t}\n",
+			"file": "assets/sass/style.scss",
+			"file_size": 23996,
+			"file_write_time": 131540271070460237,
+			"settings":
+			{
+				"buffer_size": 22647,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "// Duration.\n\t$duration-transition:\t\t0.2s;\n\n// Size.\n\t$size-border-radius:\t\t6px;\n\t$size-element-height:\t\t3em;\n\t$size-element-margin:\t\t2em;\n\n// Font.\n\t$font-family:\t\t\t\t'Source Sans Pro', sans-serif;\n\t$font-family-fixed:\t\t\tmonospace;\n\t$font-weight:\t\t\t\t300;\n\t$font-weight-bold:\t\t\t400;\n\n// Color.\n\t$color-bg:\t\t\t\t\t#f5f5f5;\n\t$color-fg:\t\t\t\t\t#777;\n\t$color-fg-bold:\t\t\t\t#646464;\n\t$color-fg-light:\t\t\t#999;\n\n\t$color-accent1-bg:\t\t\t#666;\n\t$color-accent1-fg:\t\t\tmix($color-accent1-bg, #ffffff, 25%);\n\t$color-accent1-fg-bold:\t\t#ffffff;\n\t$color-accent1-fg-light:\tmix($color-accent1-bg, #ffffff, 40%);\n\n\t$color-accent2-bg:\t\t\t#e89980;\n\t$color-accent2-fg:\t\t\tmix($color-accent2-bg, #ffffff, 25%);\n\t$color-accent2-fg-bold:\t\t#ffffff;\n\t$color-accent2-fg-light:\tmix($color-accent2-bg, #ffffff, 40%);\n\n\t$color-accent3-bg:\t\t\t#7fcdb8;\n\t$color-accent3-fg:\t\t\tmix($color-accent3-bg, #ffffff, 25%);\n\t$color-accent3-fg-bold:\t\t#ffffff;\n\t$color-accent3-fg-light:\tmix($color-accent3-bg, #ffffff, 40%);\n\n\t$color-accent4-bg:\t\t\t#90b0ba;\n\t$color-accent4-fg:\t\t\tmix($color-accent4-bg, #ffffff, 25%);\n\t$color-accent4-fg-bold:\t\t#ffffff;\n\t$color-accent4-fg-light:\tmix($color-accent4-bg, #ffffff, 40%);\n\n\t$color-accent5-bg:\t\t\t#e5cb95;\n\t$color-accent5-fg:\t\t\tmix($color-accent5-bg, #ffffff, 25%);\n\t$color-accent5-fg-bold:\t\t#ffffff;\n\t$color-accent5-fg-light:\tmix($color-accent5-bg, #ffffff, 40%);\n\n\t$color-border:\t\t\t\t#e5e5e5;\n\t$color-border-bg:\t\t\t#f8f8f8;\n\n\t$color-border2:\t\t\t\t#dddddd;\n\t$color-border2-bg:\t\t\t#f0f0f0;\n\t\n\t$color-header-bg:\t\t\t#444;\n\t$color-header-fg:\t\t\t#bbb;\n\t$color-header-fg-bold:\t\t#fff;\n\t$color-header-fg-light:\t\t#999;",
+			"file": "assets/sass/_sass/_vars.scss",
+			"file_size": 1639,
+			"file_write_time": 131540276170150596,
+			"settings":
+			{
+				"buffer_size": 1585,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -545,10 +635,20 @@
 	},
 	"expanded_folders":
 	[
-		"/home/markberthelemy/Documents/Code/reaper-ministries"
+		"/home/markberthelemy/Documents/Code/reaper-ministries",
+		"/home/markberthelemy/Documents/Code/reaper-ministries/_site",
+		"/home/markberthelemy/Documents/Code/reaper-ministries/_site/assets",
+		"/home/markberthelemy/Documents/Code/reaper-ministries/_site/assets/sass",
+		"/home/markberthelemy/Documents/Code/reaper-ministries/_site/jekyll/update",
+		"/home/markberthelemy/Documents/Code/reaper-ministries/_site/jekyll/update/2017",
+		"/home/markberthelemy/Documents/Code/reaper-ministries/_site/jekyll/update/2017/11",
+		"/home/markberthelemy/Documents/Code/reaper-ministries/_site/jekyll/update/2017/11/01"
 	],
 	"file_history":
 	[
+		"/home/markberthelemy/Documents/Code/reaper-ministries/_site/assets/sass/style.scss",
+		"/home/markberthelemy/Documents/Code/reaper-ministries/_site/index.html",
+		"/home/markberthelemy/Documents/Code/reaper-ministries/Gemfile",
 		"/home/markberthelemy/Documents/Code/pmo-project/pmo/actions/admin.py",
 		"/home/markberthelemy/Documents/Code/pmo-project/pmo/readme.md",
 		"/home/markberthelemy/Documents/Code/pmo-project/pmo/pmo/urls.py",
@@ -673,10 +773,7 @@
 		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/build/readme.md",
 		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/upgrading.md",
 		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/about_xerte.md",
-		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/managing_a_xerte_site.md",
-		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/installing_xerte.md",
-		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/creating_learning_content.md",
-		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/developer_guide.md"
+		"/Users/markberthelemy/Documents/Websites/xerteonlinetoolkits-fork/documentation/managing_a_xerte_site.md"
 	],
 	"find":
 	{
@@ -684,9 +781,12 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"<open folders>,/home/markberthelemy/Documents/Code/reaper-ministries,-*.html,-*.css,-*.scss,-*.js",
+			"<open folders>,/home/markberthelemy/Documents/Code/reaper-ministries,-*.html",
+			"<open folders>,/home/markberthelemy/Documents/Code/reaper-ministries",
 			"<open folders>",
 			"/Users/markberthelemy/Documents/Code/microblog/app",
 			"/Users/markberthelemy/temp/24tips wp",
@@ -698,6 +798,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"desktop",
+			"title",
+			"Alpha",
 			"static",
 			"cent",
 			"four",
@@ -822,10 +925,7 @@
 			"</ul>",
 			"</li>",
 			"<a href=\"http://localhost/DefAc_NMP/index.html#\" style=\"margin: 0px; padding: 5px; color: rgb(102, 102, 102); text-decoration: none; border: 1px solid rgb(204, 204, 204); font-family: arial, verdana, tahoma; font-size: 11px; display: inline-block; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; -webkit-transition: all 0.5s;\"></a>",
-			"<li style=\"margin: 0px; padding: 20px 5px 0px; float: left; text-align: center; list-style-type: none; position: relative; -webkit-transition: all 0.5s;\">",
-			"<ul style=\"margin: 0px 0px 0px 25px; padding: 20px 0px 0px; position: relative; -webkit-transition: all 0.5s; color: rgb(51, 51, 51); font-family: 'helvetica neue', helvetica, arial, sans-serif; font-size: 14px; line-height: 20px; text-align: center;\">\n                            <li style=\"margin: 0px; padding: 20px 5px 0px; float: left; text-align: center; list-style-type: none; position: relative; -webkit-transition: all 0.5s;\">\n                                <a href=\"http://localhost/DefAc_NMP/index.html#\" style=\"margin: 0px; padding: 5px; color: rgb(0, 0, 0); text-decoration: none; outline: 0px; border: 1px solid rgb(148, 160, 180); font-family: arial, verdana, tahoma; font-size: 11px; display: inline-block; border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; -webkit-transition: all 0.5s; background-color: rgb(200, 228, 248);\"></a>",
-			"<br>",
-			" class=\"name\" style=\"margin: 0px 0px 10px; padding: 0px;\""
+			"<li style=\"margin: 0px; padding: 20px 5px 0px; float: left; text-align: center; list-style-type: none; position: relative; -webkit-transition: all 0.5s;\">"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -858,8 +958,239 @@
 	"groups":
 	[
 		{
+			"selected": 7,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/nav.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_includes/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								189
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/sass/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/sass/_sass/_vars.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

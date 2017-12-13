@@ -1,3 +1,12 @@
 {% include header.html %}
+	{% if page.url != "/" %}
+	<header>
+		<h2>{{ page.title }}</h2>
+		<p>{{ page.description }}</p>
+	</header>
+	{% endif %}
+	<div class="box">
+	<span class="image featured"><img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt="{{ page.image_alt}}" /></span>
 	{{ content }}
+	</div>
 {% include footer.html %}
