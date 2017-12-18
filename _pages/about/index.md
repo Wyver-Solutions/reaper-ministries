@@ -3,7 +3,7 @@ title: About
 longTitle: About Reaper Ministries
 layout: default
 permalink: /about/
-image: pic01.jpg
+image: 089-banner.JPG
 image_alt: Test
 ---
 Reaper Ministries is an evangelistic, healing, prayer and teaching ministry directed by Richard Trotter, with the support and involvement of UK and overseas partners and associates.
