@@ -6,8 +6,14 @@ permalink: /get-involved/
 image: pic01.jpg
 image_alt: Test
 ---
-Reaper Ministries is an evangelistic, healing, prayer and teaching ministry directed by Richard Trotter, with the support and involvement of UK and overseas partners and associates.
+We rely entirely on donations from the UK for both the mission work and the Good Hope School project.
 
-Reaper Ministries works mainly in the Developing World, particularly with churches in Malawi, where it has a primary school project, and also in India.
+If you would like to support us please send a cheque (payable to Reaper Ministries International). If you would like to make a donation by bank transfer or set up a Standing Order please get in touch.
 
-Richard is available to visit your location (in the UK)  to speak about the work, his personal journey into life, and to preach the Gospel and minister the Lord’s healing.
+If you are a tax payer and would like your donations to be treated as Gift Aided donations please ask for a Gift Aid Declaration form.
+
+Last, but not least, please pray for the work to which God has called Richard and the team. Thank you
+
+The ministry costs include the expenses of holding meetings any publicity, and Richard’s travel for overseas missions. Richard does not take a salary from the ministry funds, and all administration is done voluntarily. Other ministry team members do not take travel or accommodation costs from the ministry funds.
+
+We would ask that you prayerfully consider giving to the work of Reaper Ministries and help us to give to those less fortunate than ourselves.
