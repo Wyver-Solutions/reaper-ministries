@@ -26,7 +26,7 @@ If you would like to get in touch with Reaper Ministries please send an email us
     <input type="hidden" name="_next" value="http://www.wyversolutions.co.uk" />
     <input type="text" name="_gotcha" style="display:none" />
     <div class="form-group">
-                <input type="text" class="form-control" name="name" id="InputEmail1" placeholder="name...">
+            <input type="text" class="form-control" name="name" id="InputEmail1" placeholder="name...">
             </div>
             <div class="form-group">
                 <input type="text" class="form-control" name="organisation" id="organisation" placeholder="organisation...">
@@ -38,5 +38,6 @@ If you would like to get in touch with Reaper Ministries please send an email us
                 <textarea class="form-control" name="message" rows="8" placeholder="message..."></textarea>
             </div>
             <div class="form-group">
-                <input type="submit" value="Send"></div>
+                <input type="submit" value="Send">
+            </div>
 </form>
