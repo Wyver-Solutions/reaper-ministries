@@ -6,6 +6,13 @@ permalink: /about/trustees/
 image: pic01.jpg
 image_alt: Test
 ---
+The four trustees are:
+
+- Richard Trotter
+- June Trotter
+- John Webster
+- Marjorie Webster
+
 ## Richard Trotter
 
 ### Turbulent beginnings
