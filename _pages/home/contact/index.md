@@ -39,6 +39,5 @@ If you would like to get in touch with Reaper Ministries please send an email us
                 <textarea class="form-control" name="message" rows="8" placeholder="message..."></textarea>
             </div>
             <div class="form-group">
-    <input type="email" name="_replyto">
     <input type="submit" value="Send">
 </form>
