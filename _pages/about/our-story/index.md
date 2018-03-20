@@ -8,7 +8,7 @@ image_alt: Test
 ---
 ## How it all began
 
-Reaper Ministries was born after <a href="about/trustees">Richard</a> attended Good News Crusade’s Evangelism Training course in 1996. GNC is the ministry of International Evangelist Don Double and Richard went on a visit to Romania with Don in 1996.
+Reaper Ministries was born after <a href="{{ site.baseurl }}/about/trustees">Richard</a> attended Good News Crusade’s Evangelism Training course in 1996. GNC is the ministry of International Evangelist Don Double and Richard went on a visit to Romania with Don in 1996.
 
 The Romania aid team and vehicles in 1997. Use of the vans was donated by a local hire company.
 
