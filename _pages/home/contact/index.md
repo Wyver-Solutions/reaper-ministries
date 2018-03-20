@@ -23,7 +23,7 @@ If you would like to get in touch with Reaper Ministries please send an email us
 <form action="https://formspree.io/mberthelemy@wyversolutions.co.uk" method="POST">
     <input type="hidden" name="_cc" value="mark.berthelemy@gmail.com" />
     <input type="hidden" name="_subject" value="[Reaper Ministries website]" />
-    <input type="hidden" name="_next" value="http://www.wyversolutions.co.uk" />
+    <input type="hidden" name="_next" value="http://reaperministries.org.uk" />
     <input type="text" name="_gotcha" style="display:none" />
     <div class="form-group">
             <input type="text" class="form-control" name="name" id="InputEmail1" placeholder="name...">
