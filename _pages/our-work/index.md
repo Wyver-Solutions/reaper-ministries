@@ -21,4 +21,6 @@ These missions have involved running crusades and conferences, holding prison vi
 
 In 2008 Good Hope Free Primary School was founded as a Christian school for poor children in a township area on the edge of Lilongwe. This has grown and now has around 350 pupils.
 
+___
+
 [More information about Good Hope School]({{ site.baseurl }}/good-hope-school/)
