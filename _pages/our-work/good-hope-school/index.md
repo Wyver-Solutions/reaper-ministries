@@ -2,7 +2,7 @@
 title: Good Hope School
 longTitle: 
 layout: default
-permalink: /good-hope-school/
+permalink: /our-work/good-hope-school/
 image: pic01.jpg
 image_alt: Test
 ---
