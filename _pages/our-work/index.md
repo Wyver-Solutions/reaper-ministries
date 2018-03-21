@@ -23,4 +23,4 @@ In 2008 Good Hope Free Primary School was founded as a Christian school for poor
 
 ___
 
-[More information about Good Hope School]({{ site.baseurl }}/good-hope-school/)
+[More information about Good Hope School]({{ site.baseurl }}/our-work/good-hope-school/)
