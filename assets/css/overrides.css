@@ -12,3 +12,8 @@
 #header h1 {
   left: 65px;
 }
+
+#banner .logo {
+  padding: 5px;
+  background-color: #fff;
+}
