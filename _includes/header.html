@@ -40,17 +40,27 @@
 
 
 				<section id="banner">
+					<div class="row">
+					<div class="2u">
+						<section class="special">
+							<img width="100%" src="{{ site.baseurl }}/assets/images/sheaflogo.gif" alt="Sheaf of wheat logo" />
+						</section>
+					</div>
+					<div class="10u">
 					<h2>{{ site.name }}</h2>
 					<p>{{ site.description }}</p>
 					<ul class="actions">
 						<li><a href="{{ site.baseurl }}/about" class="button">Learn More</a></li>
 					</ul>
+						</div>
+					</div><!-- end of row -->
 				</section>
 
 		{% else %}
 		<body>
 			<div id="page-wrapper">
 			<header id="header">
+				<div class="logo"><img width="100%" src="{{ site.baseurl }}/assets/images/sheaflogo.gif" alt="Sheaf of wheat logo" /></div>
 				<h1><a href="{{ site.baseurl }}/index.html">{{ site.name }}</a></h1>
 				{% include nav.html %}
 				</header>
