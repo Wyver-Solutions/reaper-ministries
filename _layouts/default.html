@@ -5,8 +5,11 @@
 		<p>{{ page.description }}</p>
 	</header>
 	{% endif %}
+	
 	<div class="box">
+	{% if page.image %}
 	<span class="image featured"><img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt="{{ page.image_alt}}" /></span>
+		{% endif %}
 	{{ content }}
 	</div>
 {% include footer.html %}
