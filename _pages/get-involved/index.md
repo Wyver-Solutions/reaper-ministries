@@ -23,4 +23,3 @@ We would ask that you prayerfully consider giving to the work of Reaper Ministri
 var caf_BeneficiaryCampaignId=1678;
 document.write(unescape('%3Cscript id="CAFDonateButtonLoader_script" src="https://cafdonate.cafonline.org/js/CAF.DonateButtonLoader_script.js" type="text/javascript"%3E%3C/script%3E'));
 </script></p>
-</div>
